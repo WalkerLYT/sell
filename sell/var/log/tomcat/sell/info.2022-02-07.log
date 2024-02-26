@@ -1,0 +1,349 @@
+HV000001: Hibernate Validator 6.2.0.Final
+Starting SellApplication using Java 17 on DESKTOP-B6BC0A3 with PID 33484 (D:\Data\ICES\sell\target\classes started by Walker in D:\Data\ICES\sell)
+No active profile set, falling back to default profiles: default
+Bootstrapping Spring Data JPA repositories in DEFAULT mode.
+Finished Spring Data repository scanning in 48 ms. Found 4 JPA repository interfaces.
+Tomcat initialized with port(s): 80 (http)
+Loaded Apache Tomcat Native library [1.2.31] using APR version [1.7.0].
+APR capabilities: IPv6 [true], sendfile [true], accept filters [false], random [true], UDS [true].
+APR/OpenSSL configuration: useAprConnector [false], useOpenSSL [true]
+OpenSSL successfully initialized [OpenSSL 1.1.1l  24 Aug 2021]
+Initializing ProtocolHandler ["http-nio-80"]
+Starting service [Tomcat]
+Starting Servlet engine: [Apache Tomcat/9.0.56]
+Initializing Spring embedded WebApplicationContext
+Root WebApplicationContext: initialization completed in 1023 ms
+HikariPool-1 - Starting...
+HikariPool-1 - Start completed.
+HHH000204: Processing PersistenceUnitInfo [name: default]
+HHH000412: Hibernate ORM core version 5.6.4.Final
+HCANN000001: Hibernate Commons Annotations {5.1.2.Final}
+HHH000400: Using dialect: org.hibernate.dialect.MySQL57Dialect
+HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+Initialized JPA EntityManagerFactory for persistence unit 'default'
+spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+Starting ProtocolHandler ["http-nio-80"]
+Tomcat started on port(s): 80 (http) with context path '/sell'
+Started SellApplication in 2.888 seconds (JVM running for 3.445)
+Initializing Spring DispatcherServlet 'dispatcherServlet'
+Initializing Servlet 'dispatcherServlet'
+Completed initialization in 1 ms
+HikariPool-1 - Failed to validate connection com.mysql.cj.jdbc.ConnectionImpl@5618e9ef (No operations allowed after connection closed.). Possibly consider using a shorter maxLifetime value.
+HikariPool-1 - Failed to validate connection com.mysql.cj.jdbc.ConnectionImpl@64674a32 (No operations allowed after connection closed.). Possibly consider using a shorter maxLifetime value.
+HikariPool-1 - Failed to validate connection com.mysql.cj.jdbc.ConnectionImpl@752180c0 (No operations allowed after connection closed.). Possibly consider using a shorter maxLifetime value.
+HikariPool-1 - Failed to validate connection com.mysql.cj.jdbc.ConnectionImpl@3ca9df3 (No operations allowed after connection closed.). Possibly consider using a shorter maxLifetime value.
+HikariPool-1 - Failed to validate connection com.mysql.cj.jdbc.ConnectionImpl@6ffacd54 (No operations allowed after connection closed.). Possibly consider using a shorter maxLifetime value.
+HikariPool-1 - Failed to validate connection com.mysql.cj.jdbc.ConnectionImpl@31922c43 (No operations allowed after connection closed.). Possibly consider using a shorter maxLifetime value.
+HikariPool-1 - Failed to validate connection com.mysql.cj.jdbc.ConnectionImpl@48cc8d31 (No operations allowed after connection closed.). Possibly consider using a shorter maxLifetime value.
+HikariPool-1 - Failed to validate connection com.mysql.cj.jdbc.ConnectionImpl@1fbea4de (No operations allowed after connection closed.). Possibly consider using a shorter maxLifetime value.
+HikariPool-1 - Failed to validate connection com.mysql.cj.jdbc.ConnectionImpl@26975a10 (No operations allowed after connection closed.). Possibly consider using a shorter maxLifetime value.
+HikariPool-1 - Failed to validate connection com.mysql.cj.jdbc.ConnectionImpl@6c78ab5 (No operations allowed after connection closed.). Possibly consider using a shorter maxLifetime value.
+Closing JPA EntityManagerFactory for persistence unit 'default'
+HikariPool-1 - Shutdown initiated...
+HikariPool-1 - Shutdown completed.
+HV000001: Hibernate Validator 6.2.0.Final
+Starting SellApplication using Java 17 on DESKTOP-B6BC0A3 with PID 40208 (D:\Data\ICES\sell\target\classes started by Walker in D:\Data\ICES\sell)
+No active profile set, falling back to default profiles: default
+Bootstrapping Spring Data JPA repositories in DEFAULT mode.
+Finished Spring Data repository scanning in 39 ms. Found 4 JPA repository interfaces.
+Tomcat initialized with port(s): 80 (http)
+Loaded Apache Tomcat Native library [1.2.31] using APR version [1.7.0].
+APR capabilities: IPv6 [true], sendfile [true], accept filters [false], random [true], UDS [true].
+APR/OpenSSL configuration: useAprConnector [false], useOpenSSL [true]
+OpenSSL successfully initialized [OpenSSL 1.1.1l  24 Aug 2021]
+Initializing ProtocolHandler ["http-nio-80"]
+Starting service [Tomcat]
+Starting Servlet engine: [Apache Tomcat/9.0.56]
+Initializing Spring embedded WebApplicationContext
+Root WebApplicationContext: initialization completed in 875 ms
+HikariPool-1 - Starting...
+HikariPool-1 - Start completed.
+HHH000204: Processing PersistenceUnitInfo [name: default]
+HHH000412: Hibernate ORM core version 5.6.4.Final
+HCANN000001: Hibernate Commons Annotations {5.1.2.Final}
+HHH000400: Using dialect: org.hibernate.dialect.MySQL57Dialect
+HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+Initialized JPA EntityManagerFactory for persistence unit 'default'
+spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+Starting ProtocolHandler ["http-nio-80"]
+Tomcat started on port(s): 80 (http) with context path '/sell'
+Started SellApplication in 2.415 seconds (JVM running for 2.862)
+Initializing Spring DispatcherServlet 'dispatcherServlet'
+Initializing Servlet 'dispatcherServlet'
+Completed initialization in 2 ms
+进入auth方法。。。
+Closing JPA EntityManagerFactory for persistence unit 'default'
+HikariPool-1 - Shutdown initiated...
+HikariPool-1 - Shutdown completed.
+HV000001: Hibernate Validator 6.2.0.Final
+Starting SellApplication using Java 17 on DESKTOP-B6BC0A3 with PID 42692 (D:\Data\ICES\sell\target\classes started by Walker in D:\Data\ICES\sell)
+No active profile set, falling back to default profiles: default
+Bootstrapping Spring Data JPA repositories in DEFAULT mode.
+Finished Spring Data repository scanning in 42 ms. Found 4 JPA repository interfaces.
+Tomcat initialized with port(s): 80 (http)
+Loaded Apache Tomcat Native library [1.2.31] using APR version [1.7.0].
+APR capabilities: IPv6 [true], sendfile [true], accept filters [false], random [true], UDS [true].
+APR/OpenSSL configuration: useAprConnector [false], useOpenSSL [true]
+OpenSSL successfully initialized [OpenSSL 1.1.1l  24 Aug 2021]
+Initializing ProtocolHandler ["http-nio-80"]
+Starting service [Tomcat]
+Starting Servlet engine: [Apache Tomcat/9.0.56]
+Initializing Spring embedded WebApplicationContext
+Root WebApplicationContext: initialization completed in 883 ms
+HikariPool-1 - Starting...
+HikariPool-1 - Start completed.
+HHH000204: Processing PersistenceUnitInfo [name: default]
+HHH000412: Hibernate ORM core version 5.6.4.Final
+HCANN000001: Hibernate Commons Annotations {5.1.2.Final}
+HHH000400: Using dialect: org.hibernate.dialect.MySQL57Dialect
+HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+Initialized JPA EntityManagerFactory for persistence unit 'default'
+spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+Starting ProtocolHandler ["http-nio-80"]
+Tomcat started on port(s): 80 (http) with context path '/sell'
+Started SellApplication in 2.54 seconds (JVM running for 2.965)
+Initializing Spring DispatcherServlet 'dispatcherServlet'
+Initializing Servlet 'dispatcherServlet'
+Completed initialization in 0 ms
+Resolved [org.springframework.web.bind.MissingServletRequestParameterException: Required request parameter 'code' for method parameter type String is not present]
+进入auth方法。。。
+code=003t1Jkl2ziCB84YzTll22TTrT2t1Jke
+进入auth方法。。。
+code=011Ar6000iFZgN19IO200Fc0o64Ar60L
+Closing JPA EntityManagerFactory for persistence unit 'default'
+HikariPool-1 - Shutdown initiated...
+HikariPool-1 - Shutdown completed.
+HV000001: Hibernate Validator 6.2.0.Final
+Starting SellApplication using Java 17 on DESKTOP-B6BC0A3 with PID 19056 (D:\Data\ICES\sell\target\classes started by Walker in D:\Data\ICES\sell)
+No active profile set, falling back to default profiles: default
+Bootstrapping Spring Data JPA repositories in DEFAULT mode.
+Finished Spring Data repository scanning in 50 ms. Found 4 JPA repository interfaces.
+Tomcat initialized with port(s): 80 (http)
+Loaded Apache Tomcat Native library [1.2.31] using APR version [1.7.0].
+APR capabilities: IPv6 [true], sendfile [true], accept filters [false], random [true], UDS [true].
+APR/OpenSSL configuration: useAprConnector [false], useOpenSSL [true]
+OpenSSL successfully initialized [OpenSSL 1.1.1l  24 Aug 2021]
+Initializing ProtocolHandler ["http-nio-80"]
+Starting service [Tomcat]
+Starting Servlet engine: [Apache Tomcat/9.0.56]
+Initializing Spring embedded WebApplicationContext
+Root WebApplicationContext: initialization completed in 1039 ms
+HikariPool-1 - Starting...
+HikariPool-1 - Start completed.
+HHH000204: Processing PersistenceUnitInfo [name: default]
+HHH000412: Hibernate ORM core version 5.6.4.Final
+HCANN000001: Hibernate Commons Annotations {5.1.2.Final}
+HHH000400: Using dialect: org.hibernate.dialect.MySQL57Dialect
+HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+Initialized JPA EntityManagerFactory for persistence unit 'default'
+spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+Starting ProtocolHandler ["http-nio-80"]
+Tomcat started on port(s): 80 (http) with context path '/sell'
+Started SellApplication in 2.907 seconds (JVM running for 6.937)
+Closing JPA EntityManagerFactory for persistence unit 'default'
+HikariPool-1 - Shutdown initiated...
+HikariPool-1 - Shutdown completed.
+HV000001: Hibernate Validator 6.2.0.Final
+Starting SellApplication using Java 17 on DESKTOP-B6BC0A3 with PID 42972 (D:\Data\ICES\sell\target\classes started by Walker in D:\Data\ICES\sell)
+No active profile set, falling back to default profiles: default
+Bootstrapping Spring Data JPA repositories in DEFAULT mode.
+Finished Spring Data repository scanning in 42 ms. Found 4 JPA repository interfaces.
+Tomcat initialized with port(s): 80 (http)
+Loaded Apache Tomcat Native library [1.2.31] using APR version [1.7.0].
+APR capabilities: IPv6 [true], sendfile [true], accept filters [false], random [true], UDS [true].
+APR/OpenSSL configuration: useAprConnector [false], useOpenSSL [true]
+OpenSSL successfully initialized [OpenSSL 1.1.1l  24 Aug 2021]
+Initializing ProtocolHandler ["http-nio-80"]
+Starting service [Tomcat]
+Starting Servlet engine: [Apache Tomcat/9.0.56]
+Initializing Spring embedded WebApplicationContext
+Root WebApplicationContext: initialization completed in 920 ms
+HikariPool-1 - Starting...
+HikariPool-1 - Start completed.
+HHH000204: Processing PersistenceUnitInfo [name: default]
+HHH000412: Hibernate ORM core version 5.6.4.Final
+HCANN000001: Hibernate Commons Annotations {5.1.2.Final}
+HHH000400: Using dialect: org.hibernate.dialect.MySQL57Dialect
+HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+Initialized JPA EntityManagerFactory for persistence unit 'default'
+spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+Starting ProtocolHandler ["http-nio-80"]
+Tomcat started on port(s): 80 (http) with context path '/sell'
+Started SellApplication in 2.624 seconds (JVM running for 3.121)
+Initializing Spring DispatcherServlet 'dispatcherServlet'
+Initializing Servlet 'dispatcherServlet'
+Completed initialization in 1 ms
+进入auth方法。。。
+code=081S9o000LhghN1RiO100jwmt74S9o0u
+response={"access_token":"53_QiluRpiC0lHU4bQBizn3QNNNPK3f5BBwFMJHDdgTQVUSj91vHz81dXRZE3n2FM91aTtF4G_BLzwCnjiGv7pM3sJHnMU6VIwhXP-a7eccH_I","expires_in":7200,"refresh_token":"53_tWcPAgZeo7sL0G2JnZ4QmV5-Ca9GEY2lr7NlpF_72wO6zbYgw5lTUQxZFirJ9g2s3YEKfCh1GTiT0vLQVWcM6xgLxiy9XYAnIHAzBOqIBHk","openid":"oiJkD6dDsP5kJT5jDCpX2p5kedjM","scope":"snsapi_base"}
+进入auth方法。。。
+code=0911EwGa1a1MCC09lbJa1e0Y9C41EwG2
+response={"access_token":"53_uiNIf7cpScnZzqnjcT2nXHLLNeFIxJ91He-R35zCHuFHloy2_gdaX_wK-PtBwc3G0_EDFZQxU5CB3k8sBsukgU-ZWoZMu5PDyi_nP0HNnAM","expires_in":7200,"refresh_token":"53_j6jmwq7I0qXQ6ejA_aN2IhEsT4fOhMGIi-A5L56ltZZIV9zn-zLz1lmsyyhYEPEWolcQiwnH7TPejgcNpSAN-d5hp1dRNT0w1wRTaNcVbOw","openid":"oiJkD6dDsP5kJT5jDCpX2p5kedjM","scope":"snsapi_base"}
+Closing JPA EntityManagerFactory for persistence unit 'default'
+HikariPool-1 - Shutdown initiated...
+HikariPool-1 - Shutdown completed.
+HV000001: Hibernate Validator 6.2.0.Final
+Starting SellApplication using Java 17 on DESKTOP-B6BC0A3 with PID 32900 (D:\Data\ICES\sell\target\classes started by Walker in D:\Data\ICES\sell)
+No active profile set, falling back to default profiles: default
+Bootstrapping Spring Data JPA repositories in DEFAULT mode.
+Finished Spring Data repository scanning in 44 ms. Found 4 JPA repository interfaces.
+Tomcat initialized with port(s): 80 (http)
+Loaded Apache Tomcat Native library [1.2.31] using APR version [1.7.0].
+APR capabilities: IPv6 [true], sendfile [true], accept filters [false], random [true], UDS [true].
+APR/OpenSSL configuration: useAprConnector [false], useOpenSSL [true]
+OpenSSL successfully initialized [OpenSSL 1.1.1l  24 Aug 2021]
+Initializing ProtocolHandler ["http-nio-80"]
+Starting service [Tomcat]
+Starting Servlet engine: [Apache Tomcat/9.0.56]
+Initializing Spring embedded WebApplicationContext
+Root WebApplicationContext: initialization completed in 1002 ms
+HikariPool-1 - Starting...
+HikariPool-1 - Start completed.
+HHH000204: Processing PersistenceUnitInfo [name: default]
+HHH000412: Hibernate ORM core version 5.6.4.Final
+HCANN000001: Hibernate Commons Annotations {5.1.2.Final}
+HHH000400: Using dialect: org.hibernate.dialect.MySQL57Dialect
+HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+Initialized JPA EntityManagerFactory for persistence unit 'default'
+spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+Starting ProtocolHandler ["http-nio-80"]
+Tomcat started on port(s): 80 (http) with context path '/sell'
+Started SellApplication in 2.767 seconds (JVM running for 3.218)
+Initializing Spring DispatcherServlet 'dispatcherServlet'
+Initializing Servlet 'dispatcherServlet'
+Completed initialization in 1 ms
+Closing JPA EntityManagerFactory for persistence unit 'default'
+HikariPool-1 - Shutdown initiated...
+HikariPool-1 - Shutdown completed.
+HV000001: Hibernate Validator 6.2.0.Final
+Starting SellApplication using Java 17 on DESKTOP-B6BC0A3 with PID 43180 (D:\Data\ICES\sell\target\classes started by Walker in D:\Data\ICES\sell)
+No active profile set, falling back to default profiles: default
+Bootstrapping Spring Data JPA repositories in DEFAULT mode.
+Finished Spring Data repository scanning in 43 ms. Found 4 JPA repository interfaces.
+Tomcat initialized with port(s): 80 (http)
+Loaded Apache Tomcat Native library [1.2.31] using APR version [1.7.0].
+APR capabilities: IPv6 [true], sendfile [true], accept filters [false], random [true], UDS [true].
+APR/OpenSSL configuration: useAprConnector [false], useOpenSSL [true]
+OpenSSL successfully initialized [OpenSSL 1.1.1l  24 Aug 2021]
+Initializing ProtocolHandler ["http-nio-80"]
+Starting service [Tomcat]
+Starting Servlet engine: [Apache Tomcat/9.0.56]
+Initializing Spring embedded WebApplicationContext
+Root WebApplicationContext: initialization completed in 928 ms
+HikariPool-1 - Starting...
+HikariPool-1 - Start completed.
+HHH000204: Processing PersistenceUnitInfo [name: default]
+HHH000412: Hibernate ORM core version 5.6.4.Final
+HCANN000001: Hibernate Commons Annotations {5.1.2.Final}
+HHH000400: Using dialect: org.hibernate.dialect.MySQL57Dialect
+HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+Initialized JPA EntityManagerFactory for persistence unit 'default'
+spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+Starting ProtocolHandler ["http-nio-80"]
+Tomcat started on port(s): 80 (http) with context path '/sell'
+Started SellApplication in 2.639 seconds (JVM running for 3.163)
+Initializing Spring DispatcherServlet 'dispatcherServlet'
+Initializing Servlet 'dispatcherServlet'
+Completed initialization in 1 ms
+Closing JPA EntityManagerFactory for persistence unit 'default'
+HikariPool-1 - Shutdown initiated...
+HikariPool-1 - Shutdown completed.
+HV000001: Hibernate Validator 6.2.0.Final
+Starting SellApplication using Java 17 on DESKTOP-B6BC0A3 with PID 13520 (D:\Data\ICES\sell\target\classes started by Walker in D:\Data\ICES\sell)
+No active profile set, falling back to default profiles: default
+Bootstrapping Spring Data JPA repositories in DEFAULT mode.
+Finished Spring Data repository scanning in 41 ms. Found 4 JPA repository interfaces.
+Tomcat initialized with port(s): 8080 (http)
+Loaded Apache Tomcat Native library [1.2.31] using APR version [1.7.0].
+APR capabilities: IPv6 [true], sendfile [true], accept filters [false], random [true], UDS [true].
+APR/OpenSSL configuration: useAprConnector [false], useOpenSSL [true]
+OpenSSL successfully initialized [OpenSSL 1.1.1l  24 Aug 2021]
+Initializing ProtocolHandler ["http-nio-8080"]
+Starting service [Tomcat]
+Starting Servlet engine: [Apache Tomcat/9.0.56]
+Initializing Spring embedded WebApplicationContext
+Root WebApplicationContext: initialization completed in 908 ms
+HikariPool-1 - Starting...
+HikariPool-1 - Start completed.
+HHH000204: Processing PersistenceUnitInfo [name: default]
+HHH000412: Hibernate ORM core version 5.6.4.Final
+HCANN000001: Hibernate Commons Annotations {5.1.2.Final}
+HHH000400: Using dialect: org.hibernate.dialect.MySQL57Dialect
+HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+Initialized JPA EntityManagerFactory for persistence unit 'default'
+spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+Starting ProtocolHandler ["http-nio-8080"]
+Tomcat started on port(s): 8080 (http) with context path '/sell'
+Started SellApplication in 2.583 seconds (JVM running for 3.032)
+Initializing Spring DispatcherServlet 'dispatcherServlet'
+Initializing Servlet 'dispatcherServlet'
+Completed initialization in 1 ms
+Closing JPA EntityManagerFactory for persistence unit 'default'
+HikariPool-1 - Shutdown initiated...
+HikariPool-1 - Shutdown completed.
+HV000001: Hibernate Validator 6.2.0.Final
+Starting SellApplication using Java 17 on DESKTOP-B6BC0A3 with PID 36276 (D:\Data\ICES\sell\target\classes started by Walker in D:\Data\ICES\sell)
+No active profile set, falling back to default profiles: default
+Bootstrapping Spring Data JPA repositories in DEFAULT mode.
+Finished Spring Data repository scanning in 49 ms. Found 4 JPA repository interfaces.
+Tomcat initialized with port(s): 8080 (http)
+Loaded Apache Tomcat Native library [1.2.31] using APR version [1.7.0].
+APR capabilities: IPv6 [true], sendfile [true], accept filters [false], random [true], UDS [true].
+APR/OpenSSL configuration: useAprConnector [false], useOpenSSL [true]
+OpenSSL successfully initialized [OpenSSL 1.1.1l  24 Aug 2021]
+Initializing ProtocolHandler ["http-nio-8080"]
+Starting service [Tomcat]
+Starting Servlet engine: [Apache Tomcat/9.0.56]
+Initializing Spring embedded WebApplicationContext
+Root WebApplicationContext: initialization completed in 1095 ms
+HikariPool-1 - Starting...
+HikariPool-1 - Start completed.
+HHH000204: Processing PersistenceUnitInfo [name: default]
+HHH000412: Hibernate ORM core version 5.6.4.Final
+HCANN000001: Hibernate Commons Annotations {5.1.2.Final}
+HHH000400: Using dialect: org.hibernate.dialect.MySQL57Dialect
+HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+Initialized JPA EntityManagerFactory for persistence unit 'default'
+spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+Starting ProtocolHandler ["http-nio-8080"]
+Tomcat started on port(s): 8080 (http) with context path '/sell'
+Started SellApplication in 3.099 seconds (JVM running for 3.651)
+Initializing Spring DispatcherServlet 'dispatcherServlet'
+Initializing Servlet 'dispatcherServlet'
+Completed initialization in 1 ms
+Closing JPA EntityManagerFactory for persistence unit 'default'
+HikariPool-1 - Shutdown initiated...
+HikariPool-1 - Shutdown completed.
+HV000001: Hibernate Validator 6.2.0.Final
+Starting SellApplication using Java 17 on DESKTOP-B6BC0A3 with PID 43932 (D:\Data\ICES\sell\target\classes started by Walker in D:\Data\ICES\sell)
+No active profile set, falling back to default profiles: default
+Bootstrapping Spring Data JPA repositories in DEFAULT mode.
+Finished Spring Data repository scanning in 47 ms. Found 4 JPA repository interfaces.
+Tomcat initialized with port(s): 8080 (http)
+Loaded Apache Tomcat Native library [1.2.31] using APR version [1.7.0].
+APR capabilities: IPv6 [true], sendfile [true], accept filters [false], random [true], UDS [true].
+APR/OpenSSL configuration: useAprConnector [false], useOpenSSL [true]
+OpenSSL successfully initialized [OpenSSL 1.1.1l  24 Aug 2021]
+Initializing ProtocolHandler ["http-nio-8080"]
+Starting service [Tomcat]
+Starting Servlet engine: [Apache Tomcat/9.0.56]
+Initializing Spring embedded WebApplicationContext
+Root WebApplicationContext: initialization completed in 985 ms
+HikariPool-1 - Starting...
+HikariPool-1 - Start completed.
+HHH000204: Processing PersistenceUnitInfo [name: default]
+HHH000412: Hibernate ORM core version 5.6.4.Final
+HCANN000001: Hibernate Commons Annotations {5.1.2.Final}
+HHH000400: Using dialect: org.hibernate.dialect.MySQL57Dialect
+HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+Initialized JPA EntityManagerFactory for persistence unit 'default'
+spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+Starting ProtocolHandler ["http-nio-8080"]
+Tomcat started on port(s): 8080 (http) with context path '/sell'
+Started SellApplication in 2.726 seconds (JVM running for 3.39)
+Initializing Spring DispatcherServlet 'dispatcherServlet'
+Initializing Servlet 'dispatcherServlet'
+Completed initialization in 1 ms
+Closing JPA EntityManagerFactory for persistence unit 'default'
+HikariPool-1 - Shutdown initiated...
+HikariPool-1 - Shutdown completed.

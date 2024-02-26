@@ -1,0 +1,4 @@
+Duplicate entry '10' for key 'product_category.uqe_category_type'
+【取消订单】订单状态不正确，orderId=1643274589837111258， orderStatus=1
+【完结订单】订单状态不正确，orderId=1643274589837111258, orderStatus=1
+【订单支付完成】订单状态不正确，orderId=1643274589837111258, orderStatus=1

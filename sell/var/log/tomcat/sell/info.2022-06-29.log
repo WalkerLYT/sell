@@ -1,0 +1,793 @@
+HV000001: Hibernate Validator 6.2.0.Final
+Starting SellApplication using Java 17 on DESKTOP-B6BC0A3 with PID 27140 (D:\Data\ICES\sell\target\classes started by Walker in D:\Data\ICES\sell)
+No active profile set, falling back to default profiles: default
+Bootstrapping Spring Data JPA repositories in DEFAULT mode.
+Finished Spring Data repository scanning in 54 ms. Found 7 JPA repository interfaces.
+Tomcat initialized with port(s): 8080 (http)
+Loaded Apache Tomcat Native library [1.2.31] using APR version [1.7.0].
+APR capabilities: IPv6 [true], sendfile [true], accept filters [false], random [true], UDS [true].
+APR/OpenSSL configuration: useAprConnector [false], useOpenSSL [true]
+OpenSSL successfully initialized [OpenSSL 1.1.1l  24 Aug 2021]
+Initializing ProtocolHandler ["http-nio-8080"]
+Starting service [Tomcat]
+Starting Servlet engine: [Apache Tomcat/9.0.56]
+Initializing Spring embedded WebApplicationContext
+Root WebApplicationContext: initialization completed in 1087 ms
+HikariPool-1 - Starting...
+HikariPool-1 - Start completed.
+HHH000204: Processing PersistenceUnitInfo [name: default]
+HHH000412: Hibernate ORM core version 5.6.4.Final
+HCANN000001: Hibernate Commons Annotations {5.1.2.Final}
+HHH000400: Using dialect: org.hibernate.dialect.MySQL8Dialect
+HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+Initialized JPA EntityManagerFactory for persistence unit 'default'
+spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+Starting ProtocolHandler ["http-nio-8080"]
+Tomcat started on port(s): 8080 (http) with context path '/sell'
+Started SellApplication in 3.154 seconds (JVM running for 3.766)
+Initializing Spring DispatcherServlet 'dispatcherServlet'
+Initializing Servlet 'dispatcherServlet'
+Completed initialization in 1 ms
+Closing JPA EntityManagerFactory for persistence unit 'default'
+HikariPool-1 - Shutdown initiated...
+HikariPool-1 - Shutdown completed.
+HV000001: Hibernate Validator 6.2.0.Final
+Starting SellApplication using Java 17 on DESKTOP-B6BC0A3 with PID 43844 (D:\Data\ICES\sell\target\classes started by Walker in D:\Data\ICES\sell)
+No active profile set, falling back to default profiles: default
+Bootstrapping Spring Data JPA repositories in DEFAULT mode.
+Finished Spring Data repository scanning in 48 ms. Found 7 JPA repository interfaces.
+Tomcat initialized with port(s): 8080 (http)
+Loaded Apache Tomcat Native library [1.2.31] using APR version [1.7.0].
+APR capabilities: IPv6 [true], sendfile [true], accept filters [false], random [true], UDS [true].
+APR/OpenSSL configuration: useAprConnector [false], useOpenSSL [true]
+OpenSSL successfully initialized [OpenSSL 1.1.1l  24 Aug 2021]
+Initializing ProtocolHandler ["http-nio-8080"]
+Starting service [Tomcat]
+Starting Servlet engine: [Apache Tomcat/9.0.56]
+Initializing Spring embedded WebApplicationContext
+Root WebApplicationContext: initialization completed in 913 ms
+HikariPool-1 - Starting...
+HikariPool-1 - Start completed.
+HHH000204: Processing PersistenceUnitInfo [name: default]
+HHH000412: Hibernate ORM core version 5.6.4.Final
+HCANN000001: Hibernate Commons Annotations {5.1.2.Final}
+HHH000400: Using dialect: org.hibernate.dialect.MySQL8Dialect
+HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+Initialized JPA EntityManagerFactory for persistence unit 'default'
+spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+Starting ProtocolHandler ["http-nio-8080"]
+Tomcat started on port(s): 8080 (http) with context path '/sell'
+Started SellApplication in 2.842 seconds (JVM running for 3.488)
+Closing JPA EntityManagerFactory for persistence unit 'default'
+HikariPool-1 - Shutdown initiated...
+HikariPool-1 - Shutdown completed.
+Starting SellApplication using Java 17 on DESKTOP-B6BC0A3 with PID 42388 (D:\Data\ICES\sell\target\classes started by Walker in D:\Data\ICES\sell)
+HV000001: Hibernate Validator 6.2.0.Final
+No active profile set, falling back to default profiles: default
+Bootstrapping Spring Data JPA repositories in DEFAULT mode.
+Finished Spring Data repository scanning in 50 ms. Found 7 JPA repository interfaces.
+Tomcat initialized with port(s): 8080 (http)
+Loaded Apache Tomcat Native library [1.2.31] using APR version [1.7.0].
+APR capabilities: IPv6 [true], sendfile [true], accept filters [false], random [true], UDS [true].
+APR/OpenSSL configuration: useAprConnector [false], useOpenSSL [true]
+OpenSSL successfully initialized [OpenSSL 1.1.1l  24 Aug 2021]
+Initializing ProtocolHandler ["http-nio-8080"]
+Starting service [Tomcat]
+Starting Servlet engine: [Apache Tomcat/9.0.56]
+Initializing Spring embedded WebApplicationContext
+Root WebApplicationContext: initialization completed in 1048 ms
+HikariPool-1 - Starting...
+HikariPool-1 - Start completed.
+HHH000204: Processing PersistenceUnitInfo [name: default]
+HHH000412: Hibernate ORM core version 5.6.4.Final
+HCANN000001: Hibernate Commons Annotations {5.1.2.Final}
+HHH000400: Using dialect: org.hibernate.dialect.MySQL8Dialect
+HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+Initialized JPA EntityManagerFactory for persistence unit 'default'
+spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+Starting ProtocolHandler ["http-nio-8080"]
+Tomcat started on port(s): 8080 (http) with context path '/sell'
+Started SellApplication in 2.811 seconds (JVM running for 3.349)
+Initializing Spring DispatcherServlet 'dispatcherServlet'
+Initializing Servlet 'dispatcherServlet'
+Completed initialization in 1 ms
+Closing JPA EntityManagerFactory for persistence unit 'default'
+HikariPool-1 - Shutdown initiated...
+HikariPool-1 - Shutdown completed.
+HV000001: Hibernate Validator 6.2.0.Final
+Starting SellApplication using Java 17 on DESKTOP-B6BC0A3 with PID 45452 (D:\Data\ICES\sell\target\classes started by Walker in D:\Data\ICES\sell)
+No active profile set, falling back to default profiles: default
+Bootstrapping Spring Data JPA repositories in DEFAULT mode.
+Finished Spring Data repository scanning in 54 ms. Found 7 JPA repository interfaces.
+Tomcat initialized with port(s): 8080 (http)
+Loaded Apache Tomcat Native library [1.2.31] using APR version [1.7.0].
+APR capabilities: IPv6 [true], sendfile [true], accept filters [false], random [true], UDS [true].
+APR/OpenSSL configuration: useAprConnector [false], useOpenSSL [true]
+OpenSSL successfully initialized [OpenSSL 1.1.1l  24 Aug 2021]
+Initializing ProtocolHandler ["http-nio-8080"]
+Starting service [Tomcat]
+Starting Servlet engine: [Apache Tomcat/9.0.56]
+Initializing Spring embedded WebApplicationContext
+Root WebApplicationContext: initialization completed in 947 ms
+HikariPool-1 - Starting...
+HikariPool-1 - Start completed.
+HHH000204: Processing PersistenceUnitInfo [name: default]
+HHH000412: Hibernate ORM core version 5.6.4.Final
+HCANN000001: Hibernate Commons Annotations {5.1.2.Final}
+HHH000400: Using dialect: org.hibernate.dialect.MySQL8Dialect
+HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+Initialized JPA EntityManagerFactory for persistence unit 'default'
+spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+Starting ProtocolHandler ["http-nio-8080"]
+Tomcat started on port(s): 8080 (http) with context path '/sell'
+Started SellApplication in 2.971 seconds (JVM running for 3.498)
+Initializing Spring DispatcherServlet 'dispatcherServlet'
+Initializing Servlet 'dispatcherServlet'
+Completed initialization in 0 ms
+SQL Error: 1054, SQLState: 42S22
+SQL Error: 1054, SQLState: 42S22
+SQL Error: 1054, SQLState: 42S22
+SQL Error: 1054, SQLState: 42S22
+Closing JPA EntityManagerFactory for persistence unit 'default'
+HikariPool-1 - Shutdown initiated...
+HikariPool-1 - Shutdown completed.
+HV000001: Hibernate Validator 6.2.0.Final
+Starting SellApplication using Java 17 on DESKTOP-B6BC0A3 with PID 44072 (D:\Data\ICES\sell\target\classes started by Walker in D:\Data\ICES\sell)
+No active profile set, falling back to default profiles: default
+Bootstrapping Spring Data JPA repositories in DEFAULT mode.
+Finished Spring Data repository scanning in 54 ms. Found 7 JPA repository interfaces.
+Tomcat initialized with port(s): 8080 (http)
+Loaded Apache Tomcat Native library [1.2.31] using APR version [1.7.0].
+APR capabilities: IPv6 [true], sendfile [true], accept filters [false], random [true], UDS [true].
+APR/OpenSSL configuration: useAprConnector [false], useOpenSSL [true]
+OpenSSL successfully initialized [OpenSSL 1.1.1l  24 Aug 2021]
+Initializing ProtocolHandler ["http-nio-8080"]
+Starting service [Tomcat]
+Starting Servlet engine: [Apache Tomcat/9.0.56]
+Initializing Spring embedded WebApplicationContext
+Root WebApplicationContext: initialization completed in 962 ms
+HikariPool-1 - Starting...
+HikariPool-1 - Start completed.
+HHH000204: Processing PersistenceUnitInfo [name: default]
+HHH000412: Hibernate ORM core version 5.6.4.Final
+HCANN000001: Hibernate Commons Annotations {5.1.2.Final}
+HHH000400: Using dialect: org.hibernate.dialect.MySQL8Dialect
+HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+Initialized JPA EntityManagerFactory for persistence unit 'default'
+spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+Starting ProtocolHandler ["http-nio-8080"]
+Tomcat started on port(s): 8080 (http) with context path '/sell'
+Started SellApplication in 3.05 seconds (JVM running for 3.522)
+Initializing Spring DispatcherServlet 'dispatcherServlet'
+Initializing Servlet 'dispatcherServlet'
+Completed initialization in 1 ms
+SQL Error: 1054, SQLState: 42S22
+Closing JPA EntityManagerFactory for persistence unit 'default'
+HikariPool-1 - Shutdown initiated...
+HikariPool-1 - Shutdown completed.
+Starting SellApplication using Java 17 on DESKTOP-B6BC0A3 with PID 41028 (D:\Data\ICES\sell\target\classes started by Walker in D:\Data\ICES\sell)
+No active profile set, falling back to default profiles: default
+HV000001: Hibernate Validator 6.2.0.Final
+Bootstrapping Spring Data JPA repositories in DEFAULT mode.
+Finished Spring Data repository scanning in 50 ms. Found 7 JPA repository interfaces.
+Tomcat initialized with port(s): 8080 (http)
+Loaded Apache Tomcat Native library [1.2.31] using APR version [1.7.0].
+APR capabilities: IPv6 [true], sendfile [true], accept filters [false], random [true], UDS [true].
+APR/OpenSSL configuration: useAprConnector [false], useOpenSSL [true]
+OpenSSL successfully initialized [OpenSSL 1.1.1l  24 Aug 2021]
+Initializing ProtocolHandler ["http-nio-8080"]
+Starting service [Tomcat]
+Starting Servlet engine: [Apache Tomcat/9.0.56]
+Initializing Spring embedded WebApplicationContext
+Root WebApplicationContext: initialization completed in 963 ms
+HikariPool-1 - Starting...
+HikariPool-1 - Start completed.
+HHH000204: Processing PersistenceUnitInfo [name: default]
+HHH000412: Hibernate ORM core version 5.6.4.Final
+HCANN000001: Hibernate Commons Annotations {5.1.2.Final}
+HHH000400: Using dialect: org.hibernate.dialect.MySQL8Dialect
+HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+Initialized JPA EntityManagerFactory for persistence unit 'default'
+spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+Starting ProtocolHandler ["http-nio-8080"]
+Tomcat started on port(s): 8080 (http) with context path '/sell'
+Started SellApplication in 3.444 seconds (JVM running for 4.044)
+Initializing Spring DispatcherServlet 'dispatcherServlet'
+Initializing Servlet 'dispatcherServlet'
+Completed initialization in 1 ms
+Starting OrderDetailRepositoryTest using Java 17 on DESKTOP-B6BC0A3 with PID 44264 (started by Walker in D:\Data\ICES\sell)
+No active profile set, falling back to default profiles: default
+HV000001: Hibernate Validator 6.2.0.Final
+Bootstrapping Spring Data JPA repositories in DEFAULT mode.
+Finished Spring Data repository scanning in 77 ms. Found 7 JPA repository interfaces.
+HikariPool-1 - Starting...
+HikariPool-1 - Start completed.
+HHH000204: Processing PersistenceUnitInfo [name: default]
+HHH000412: Hibernate ORM core version 5.6.4.Final
+HCANN000001: Hibernate Commons Annotations {5.1.2.Final}
+HHH000400: Using dialect: org.hibernate.dialect.MySQL8Dialect
+HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+Initialized JPA EntityManagerFactory for persistence unit 'default'
+spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+Started OrderDetailRepositoryTest in 4.38 seconds (JVM running for 5.321)
+Neither @ContextConfiguration nor @ContextHierarchy found for test class [com.liyt.sell.repository.OrderMasterRepositoryTest], using SpringBootContextLoader
+Could not detect default resource locations for test class [com.liyt.sell.repository.OrderMasterRepositoryTest]: no resource found for suffixes {-context.xml, Context.groovy}.
+Could not detect default configuration classes for test class [com.liyt.sell.repository.OrderMasterRepositoryTest]: OrderMasterRepositoryTest does not declare any static, non-private, non-final, nested classes annotated with @Configuration.
+Found @SpringBootConfiguration com.liyt.sell.SellApplication for test class com.liyt.sell.repository.OrderMasterRepositoryTest
+Loaded default TestExecutionListener class names from location [META-INF/spring.factories]: [org.springframework.boot.test.autoconfigure.restdocs.RestDocsTestExecutionListener, org.springframework.boot.test.autoconfigure.web.client.MockRestServiceServerResetTestExecutionListener, org.springframework.boot.test.autoconfigure.web.servlet.MockMvcPrintOnlyOnFailureTestExecutionListener, org.springframework.boot.test.autoconfigure.web.servlet.WebDriverTestExecutionListener, org.springframework.boot.test.autoconfigure.webservices.client.MockWebServiceServerTestExecutionListener, org.springframework.test.context.web.ServletTestExecutionListener, org.springframework.test.context.support.DirtiesContextBeforeModesTestExecutionListener, org.springframework.test.context.event.ApplicationEventsTestExecutionListener, org.springframework.test.context.support.DependencyInjectionTestExecutionListener, org.springframework.test.context.support.DirtiesContextTestExecutionListener, org.springframework.test.context.transaction.TransactionalTestExecutionListener, org.springframework.test.context.jdbc.SqlScriptsTestExecutionListener, org.springframework.test.context.event.EventPublishingTestExecutionListener, org.springframework.boot.test.mock.mockito.MockitoTestExecutionListener, org.springframework.boot.test.mock.mockito.ResetMocksTestExecutionListener]
+Using TestExecutionListeners: [org.springframework.test.context.web.ServletTestExecutionListener@30b075b9, org.springframework.test.context.support.DirtiesContextBeforeModesTestExecutionListener@510e0dd2, org.springframework.test.context.event.ApplicationEventsTestExecutionListener@54a98358, org.springframework.boot.test.mock.mockito.MockitoTestExecutionListener@1f7853af, org.springframework.boot.test.autoconfigure.SpringBootDependencyInjectionTestExecutionListener@2c56e044, org.springframework.test.context.support.DirtiesContextTestExecutionListener@d970881, org.springframework.test.context.transaction.TransactionalTestExecutionListener@153cf928, org.springframework.test.context.jdbc.SqlScriptsTestExecutionListener@4884350b, org.springframework.test.context.event.EventPublishingTestExecutionListener@53cba89f, org.springframework.boot.test.autoconfigure.restdocs.RestDocsTestExecutionListener@66ad7167, org.springframework.boot.test.autoconfigure.web.client.MockRestServiceServerResetTestExecutionListener@14aa2123, org.springframework.boot.test.autoconfigure.web.servlet.MockMvcPrintOnlyOnFailureTestExecutionListener@7def62d0, org.springframework.boot.test.autoconfigure.web.servlet.WebDriverTestExecutionListener@736eb2a2, org.springframework.boot.test.autoconfigure.webservices.client.MockWebServiceServerTestExecutionListener@7ec5d3e1, org.springframework.boot.test.mock.mockito.ResetMocksTestExecutionListener@3b235623]
+SQL Error: 1048, SQLState: 23000
+HHH000010: On release of batch it still contained JDBC statements
+Neither @ContextConfiguration nor @ContextHierarchy found for test class [com.liyt.sell.repository.ProductInfoRepositoryTest], using SpringBootContextLoader
+Could not detect default resource locations for test class [com.liyt.sell.repository.ProductInfoRepositoryTest]: no resource found for suffixes {-context.xml, Context.groovy}.
+Could not detect default configuration classes for test class [com.liyt.sell.repository.ProductInfoRepositoryTest]: ProductInfoRepositoryTest does not declare any static, non-private, non-final, nested classes annotated with @Configuration.
+Found @SpringBootConfiguration com.liyt.sell.SellApplication for test class com.liyt.sell.repository.ProductInfoRepositoryTest
+Loaded default TestExecutionListener class names from location [META-INF/spring.factories]: [org.springframework.boot.test.autoconfigure.restdocs.RestDocsTestExecutionListener, org.springframework.boot.test.autoconfigure.web.client.MockRestServiceServerResetTestExecutionListener, org.springframework.boot.test.autoconfigure.web.servlet.MockMvcPrintOnlyOnFailureTestExecutionListener, org.springframework.boot.test.autoconfigure.web.servlet.WebDriverTestExecutionListener, org.springframework.boot.test.autoconfigure.webservices.client.MockWebServiceServerTestExecutionListener, org.springframework.test.context.web.ServletTestExecutionListener, org.springframework.test.context.support.DirtiesContextBeforeModesTestExecutionListener, org.springframework.test.context.event.ApplicationEventsTestExecutionListener, org.springframework.test.context.support.DependencyInjectionTestExecutionListener, org.springframework.test.context.support.DirtiesContextTestExecutionListener, org.springframework.test.context.transaction.TransactionalTestExecutionListener, org.springframework.test.context.jdbc.SqlScriptsTestExecutionListener, org.springframework.test.context.event.EventPublishingTestExecutionListener, org.springframework.boot.test.mock.mockito.MockitoTestExecutionListener, org.springframework.boot.test.mock.mockito.ResetMocksTestExecutionListener]
+Using TestExecutionListeners: [org.springframework.test.context.web.ServletTestExecutionListener@1488d1c, org.springframework.test.context.support.DirtiesContextBeforeModesTestExecutionListener@b21cbbf, org.springframework.test.context.event.ApplicationEventsTestExecutionListener@578ac0be, org.springframework.boot.test.mock.mockito.MockitoTestExecutionListener@4250b0c1, org.springframework.boot.test.autoconfigure.SpringBootDependencyInjectionTestExecutionListener@7b5e5fa, org.springframework.test.context.support.DirtiesContextTestExecutionListener@24caa80, org.springframework.test.context.transaction.TransactionalTestExecutionListener@3420547, org.springframework.test.context.jdbc.SqlScriptsTestExecutionListener@44d36b56, org.springframework.test.context.event.EventPublishingTestExecutionListener@6ce1cc03, org.springframework.boot.test.autoconfigure.restdocs.RestDocsTestExecutionListener@b1e63b5, org.springframework.boot.test.autoconfigure.web.client.MockRestServiceServerResetTestExecutionListener@186537ac, org.springframework.boot.test.autoconfigure.web.servlet.MockMvcPrintOnlyOnFailureTestExecutionListener@4733662d, org.springframework.boot.test.autoconfigure.web.servlet.WebDriverTestExecutionListener@25502b1c, org.springframework.boot.test.autoconfigure.webservices.client.MockWebServiceServerTestExecutionListener@5dabe7c8, org.springframework.boot.test.mock.mockito.ResetMocksTestExecutionListener@6c427386]
+SQL Error: 1048, SQLState: 23000
+HHH000010: On release of batch it still contained JDBC statements
+Neither @ContextConfiguration nor @ContextHierarchy found for test class [com.liyt.sell.repository.SellerInfoRepositoryTest], using SpringBootContextLoader
+Could not detect default resource locations for test class [com.liyt.sell.repository.SellerInfoRepositoryTest]: no resource found for suffixes {-context.xml, Context.groovy}.
+Could not detect default configuration classes for test class [com.liyt.sell.repository.SellerInfoRepositoryTest]: SellerInfoRepositoryTest does not declare any static, non-private, non-final, nested classes annotated with @Configuration.
+Found @SpringBootConfiguration com.liyt.sell.SellApplication for test class com.liyt.sell.repository.SellerInfoRepositoryTest
+Loaded default TestExecutionListener class names from location [META-INF/spring.factories]: [org.springframework.boot.test.autoconfigure.restdocs.RestDocsTestExecutionListener, org.springframework.boot.test.autoconfigure.web.client.MockRestServiceServerResetTestExecutionListener, org.springframework.boot.test.autoconfigure.web.servlet.MockMvcPrintOnlyOnFailureTestExecutionListener, org.springframework.boot.test.autoconfigure.web.servlet.WebDriverTestExecutionListener, org.springframework.boot.test.autoconfigure.webservices.client.MockWebServiceServerTestExecutionListener, org.springframework.test.context.web.ServletTestExecutionListener, org.springframework.test.context.support.DirtiesContextBeforeModesTestExecutionListener, org.springframework.test.context.event.ApplicationEventsTestExecutionListener, org.springframework.test.context.support.DependencyInjectionTestExecutionListener, org.springframework.test.context.support.DirtiesContextTestExecutionListener, org.springframework.test.context.transaction.TransactionalTestExecutionListener, org.springframework.test.context.jdbc.SqlScriptsTestExecutionListener, org.springframework.test.context.event.EventPublishingTestExecutionListener, org.springframework.boot.test.mock.mockito.MockitoTestExecutionListener, org.springframework.boot.test.mock.mockito.ResetMocksTestExecutionListener]
+Using TestExecutionListeners: [org.springframework.test.context.web.ServletTestExecutionListener@6e6ec71f, org.springframework.test.context.support.DirtiesContextBeforeModesTestExecutionListener@1e387974, org.springframework.test.context.event.ApplicationEventsTestExecutionListener@2a23c061, org.springframework.boot.test.mock.mockito.MockitoTestExecutionListener@7c6557da, org.springframework.boot.test.autoconfigure.SpringBootDependencyInjectionTestExecutionListener@642b2176, org.springframework.test.context.support.DirtiesContextTestExecutionListener@3985175e, org.springframework.test.context.transaction.TransactionalTestExecutionListener@d91e8c7, org.springframework.test.context.jdbc.SqlScriptsTestExecutionListener@5b9ca528, org.springframework.test.context.event.EventPublishingTestExecutionListener@66011fbc, org.springframework.boot.test.autoconfigure.restdocs.RestDocsTestExecutionListener@77afdbc5, org.springframework.boot.test.autoconfigure.web.client.MockRestServiceServerResetTestExecutionListener@757ad227, org.springframework.boot.test.autoconfigure.web.servlet.MockMvcPrintOnlyOnFailureTestExecutionListener@4b718c45, org.springframework.boot.test.autoconfigure.web.servlet.WebDriverTestExecutionListener@25639668, org.springframework.boot.test.autoconfigure.webservices.client.MockWebServiceServerTestExecutionListener@2c1b10f2, org.springframework.boot.test.mock.mockito.ResetMocksTestExecutionListener@f5314bc]
+Neither @ContextConfiguration nor @ContextHierarchy found for test class [com.liyt.sell.repository.ShopInfoRepositoryTest], using SpringBootContextLoader
+Could not detect default resource locations for test class [com.liyt.sell.repository.ShopInfoRepositoryTest]: no resource found for suffixes {-context.xml, Context.groovy}.
+Could not detect default configuration classes for test class [com.liyt.sell.repository.ShopInfoRepositoryTest]: ShopInfoRepositoryTest does not declare any static, non-private, non-final, nested classes annotated with @Configuration.
+Found @SpringBootConfiguration com.liyt.sell.SellApplication for test class com.liyt.sell.repository.ShopInfoRepositoryTest
+Loaded default TestExecutionListener class names from location [META-INF/spring.factories]: [org.springframework.boot.test.autoconfigure.restdocs.RestDocsTestExecutionListener, org.springframework.boot.test.autoconfigure.web.client.MockRestServiceServerResetTestExecutionListener, org.springframework.boot.test.autoconfigure.web.servlet.MockMvcPrintOnlyOnFailureTestExecutionListener, org.springframework.boot.test.autoconfigure.web.servlet.WebDriverTestExecutionListener, org.springframework.boot.test.autoconfigure.webservices.client.MockWebServiceServerTestExecutionListener, org.springframework.test.context.web.ServletTestExecutionListener, org.springframework.test.context.support.DirtiesContextBeforeModesTestExecutionListener, org.springframework.test.context.event.ApplicationEventsTestExecutionListener, org.springframework.test.context.support.DependencyInjectionTestExecutionListener, org.springframework.test.context.support.DirtiesContextTestExecutionListener, org.springframework.test.context.transaction.TransactionalTestExecutionListener, org.springframework.test.context.jdbc.SqlScriptsTestExecutionListener, org.springframework.test.context.event.EventPublishingTestExecutionListener, org.springframework.boot.test.mock.mockito.MockitoTestExecutionListener, org.springframework.boot.test.mock.mockito.ResetMocksTestExecutionListener]
+Using TestExecutionListeners: [org.springframework.test.context.web.ServletTestExecutionListener@121f97fb, org.springframework.test.context.support.DirtiesContextBeforeModesTestExecutionListener@70a3b, org.springframework.test.context.event.ApplicationEventsTestExecutionListener@18baee88, org.springframework.boot.test.mock.mockito.MockitoTestExecutionListener@59e67a18, org.springframework.boot.test.autoconfigure.SpringBootDependencyInjectionTestExecutionListener@37289e90, org.springframework.test.context.support.DirtiesContextTestExecutionListener@f461c9c, org.springframework.test.context.transaction.TransactionalTestExecutionListener@40477d52, org.springframework.test.context.jdbc.SqlScriptsTestExecutionListener@2a1be9f8, org.springframework.test.context.event.EventPublishingTestExecutionListener@59b43e35, org.springframework.boot.test.autoconfigure.restdocs.RestDocsTestExecutionListener@66297b63, org.springframework.boot.test.autoconfigure.web.client.MockRestServiceServerResetTestExecutionListener@1d7f2719, org.springframework.boot.test.autoconfigure.web.servlet.MockMvcPrintOnlyOnFailureTestExecutionListener@685e5967, org.springframework.boot.test.autoconfigure.web.servlet.WebDriverTestExecutionListener@106387cf, org.springframework.boot.test.autoconfigure.webservices.client.MockWebServiceServerTestExecutionListener@3d3c14c3, org.springframework.boot.test.mock.mockito.ResetMocksTestExecutionListener@599fab92]
+Neither @ContextConfiguration nor @ContextHierarchy found for test class [com.liyt.sell.SellApplicationTests], using SpringBootContextLoader
+Could not detect default resource locations for test class [com.liyt.sell.SellApplicationTests]: no resource found for suffixes {-context.xml, Context.groovy}.
+Could not detect default configuration classes for test class [com.liyt.sell.SellApplicationTests]: SellApplicationTests does not declare any static, non-private, non-final, nested classes annotated with @Configuration.
+Found @SpringBootConfiguration com.liyt.sell.SellApplication for test class com.liyt.sell.SellApplicationTests
+Loaded default TestExecutionListener class names from location [META-INF/spring.factories]: [org.springframework.boot.test.autoconfigure.restdocs.RestDocsTestExecutionListener, org.springframework.boot.test.autoconfigure.web.client.MockRestServiceServerResetTestExecutionListener, org.springframework.boot.test.autoconfigure.web.servlet.MockMvcPrintOnlyOnFailureTestExecutionListener, org.springframework.boot.test.autoconfigure.web.servlet.WebDriverTestExecutionListener, org.springframework.boot.test.autoconfigure.webservices.client.MockWebServiceServerTestExecutionListener, org.springframework.test.context.web.ServletTestExecutionListener, org.springframework.test.context.support.DirtiesContextBeforeModesTestExecutionListener, org.springframework.test.context.event.ApplicationEventsTestExecutionListener, org.springframework.test.context.support.DependencyInjectionTestExecutionListener, org.springframework.test.context.support.DirtiesContextTestExecutionListener, org.springframework.test.context.transaction.TransactionalTestExecutionListener, org.springframework.test.context.jdbc.SqlScriptsTestExecutionListener, org.springframework.test.context.event.EventPublishingTestExecutionListener, org.springframework.boot.test.mock.mockito.MockitoTestExecutionListener, org.springframework.boot.test.mock.mockito.ResetMocksTestExecutionListener]
+Using TestExecutionListeners: [org.springframework.test.context.web.ServletTestExecutionListener@5bdef8ee, org.springframework.test.context.support.DirtiesContextBeforeModesTestExecutionListener@345d4ecb, org.springframework.test.context.event.ApplicationEventsTestExecutionListener@66e44f9f, org.springframework.boot.test.mock.mockito.MockitoTestExecutionListener@79f82fc4, org.springframework.boot.test.autoconfigure.SpringBootDependencyInjectionTestExecutionListener@554db19d, org.springframework.test.context.support.DirtiesContextTestExecutionListener@bb896e9, org.springframework.test.context.transaction.TransactionalTestExecutionListener@4fe4b8b6, org.springframework.test.context.jdbc.SqlScriptsTestExecutionListener@77da2881, org.springframework.test.context.event.EventPublishingTestExecutionListener@4fa3bebe, org.springframework.boot.test.autoconfigure.restdocs.RestDocsTestExecutionListener@63767d, org.springframework.boot.test.autoconfigure.web.client.MockRestServiceServerResetTestExecutionListener@6aa85fcf, org.springframework.boot.test.autoconfigure.web.servlet.MockMvcPrintOnlyOnFailureTestExecutionListener@4c90fc3b, org.springframework.boot.test.autoconfigure.web.servlet.WebDriverTestExecutionListener@1e14ed59, org.springframework.boot.test.autoconfigure.webservices.client.MockWebServiceServerTestExecutionListener@5dfb078, org.springframework.boot.test.mock.mockito.ResetMocksTestExecutionListener@2d21d12b]
+Neither @ContextConfiguration nor @ContextHierarchy found for test class [com.liyt.sell.service.impl.BuyerServiceImplTest], using SpringBootContextLoader
+Could not detect default resource locations for test class [com.liyt.sell.service.impl.BuyerServiceImplTest]: no resource found for suffixes {-context.xml, Context.groovy}.
+Could not detect default configuration classes for test class [com.liyt.sell.service.impl.BuyerServiceImplTest]: BuyerServiceImplTest does not declare any static, non-private, non-final, nested classes annotated with @Configuration.
+Found @SpringBootConfiguration com.liyt.sell.SellApplication for test class com.liyt.sell.service.impl.BuyerServiceImplTest
+Loaded default TestExecutionListener class names from location [META-INF/spring.factories]: [org.springframework.boot.test.autoconfigure.restdocs.RestDocsTestExecutionListener, org.springframework.boot.test.autoconfigure.web.client.MockRestServiceServerResetTestExecutionListener, org.springframework.boot.test.autoconfigure.web.servlet.MockMvcPrintOnlyOnFailureTestExecutionListener, org.springframework.boot.test.autoconfigure.web.servlet.WebDriverTestExecutionListener, org.springframework.boot.test.autoconfigure.webservices.client.MockWebServiceServerTestExecutionListener, org.springframework.test.context.web.ServletTestExecutionListener, org.springframework.test.context.support.DirtiesContextBeforeModesTestExecutionListener, org.springframework.test.context.event.ApplicationEventsTestExecutionListener, org.springframework.test.context.support.DependencyInjectionTestExecutionListener, org.springframework.test.context.support.DirtiesContextTestExecutionListener, org.springframework.test.context.transaction.TransactionalTestExecutionListener, org.springframework.test.context.jdbc.SqlScriptsTestExecutionListener, org.springframework.test.context.event.EventPublishingTestExecutionListener, org.springframework.boot.test.mock.mockito.MockitoTestExecutionListener, org.springframework.boot.test.mock.mockito.ResetMocksTestExecutionListener]
+Using TestExecutionListeners: [org.springframework.test.context.web.ServletTestExecutionListener@27f8f1cc, org.springframework.test.context.support.DirtiesContextBeforeModesTestExecutionListener@473c491, org.springframework.test.context.event.ApplicationEventsTestExecutionListener@3ede428e, org.springframework.boot.test.mock.mockito.MockitoTestExecutionListener@70a8654, org.springframework.boot.test.autoconfigure.SpringBootDependencyInjectionTestExecutionListener@671c71e8, org.springframework.test.context.support.DirtiesContextTestExecutionListener@7d5176d6, org.springframework.test.context.transaction.TransactionalTestExecutionListener@31d791c0, org.springframework.test.context.jdbc.SqlScriptsTestExecutionListener@623c9988, org.springframework.test.context.event.EventPublishingTestExecutionListener@66ab3716, org.springframework.boot.test.autoconfigure.restdocs.RestDocsTestExecutionListener@103a1ad3, org.springframework.boot.test.autoconfigure.web.client.MockRestServiceServerResetTestExecutionListener@1d6ed085, org.springframework.boot.test.autoconfigure.web.servlet.MockMvcPrintOnlyOnFailureTestExecutionListener@1b18fa79, org.springframework.boot.test.autoconfigure.web.servlet.WebDriverTestExecutionListener@24347d8b, org.springframework.boot.test.autoconfigure.webservices.client.MockWebServiceServerTestExecutionListener@6418075c, org.springframework.boot.test.mock.mockito.ResetMocksTestExecutionListener@f9919a2]
+Neither @ContextConfiguration nor @ContextHierarchy found for test class [com.liyt.sell.service.impl.CategoryServiceImplTest], using SpringBootContextLoader
+Could not detect default resource locations for test class [com.liyt.sell.service.impl.CategoryServiceImplTest]: no resource found for suffixes {-context.xml, Context.groovy}.
+Could not detect default configuration classes for test class [com.liyt.sell.service.impl.CategoryServiceImplTest]: CategoryServiceImplTest does not declare any static, non-private, non-final, nested classes annotated with @Configuration.
+Found @SpringBootConfiguration com.liyt.sell.SellApplication for test class com.liyt.sell.service.impl.CategoryServiceImplTest
+Loaded default TestExecutionListener class names from location [META-INF/spring.factories]: [org.springframework.boot.test.autoconfigure.restdocs.RestDocsTestExecutionListener, org.springframework.boot.test.autoconfigure.web.client.MockRestServiceServerResetTestExecutionListener, org.springframework.boot.test.autoconfigure.web.servlet.MockMvcPrintOnlyOnFailureTestExecutionListener, org.springframework.boot.test.autoconfigure.web.servlet.WebDriverTestExecutionListener, org.springframework.boot.test.autoconfigure.webservices.client.MockWebServiceServerTestExecutionListener, org.springframework.test.context.web.ServletTestExecutionListener, org.springframework.test.context.support.DirtiesContextBeforeModesTestExecutionListener, org.springframework.test.context.event.ApplicationEventsTestExecutionListener, org.springframework.test.context.support.DependencyInjectionTestExecutionListener, org.springframework.test.context.support.DirtiesContextTestExecutionListener, org.springframework.test.context.transaction.TransactionalTestExecutionListener, org.springframework.test.context.jdbc.SqlScriptsTestExecutionListener, org.springframework.test.context.event.EventPublishingTestExecutionListener, org.springframework.boot.test.mock.mockito.MockitoTestExecutionListener, org.springframework.boot.test.mock.mockito.ResetMocksTestExecutionListener]
+Using TestExecutionListeners: [org.springframework.test.context.web.ServletTestExecutionListener@7dd92a36, org.springframework.test.context.support.DirtiesContextBeforeModesTestExecutionListener@531ed68e, org.springframework.test.context.event.ApplicationEventsTestExecutionListener@551976c2, org.springframework.boot.test.mock.mockito.MockitoTestExecutionListener@6bbd4048, org.springframework.boot.test.autoconfigure.SpringBootDependencyInjectionTestExecutionListener@5f815f93, org.springframework.test.context.support.DirtiesContextTestExecutionListener@7a8e484b, org.springframework.test.context.transaction.TransactionalTestExecutionListener@643f8ebe, org.springframework.test.context.jdbc.SqlScriptsTestExecutionListener@65013d71, org.springframework.test.context.event.EventPublishingTestExecutionListener@30a99b85, org.springframework.boot.test.autoconfigure.restdocs.RestDocsTestExecutionListener@386d41cb, org.springframework.boot.test.autoconfigure.web.client.MockRestServiceServerResetTestExecutionListener@20bf7206, org.springframework.boot.test.autoconfigure.web.servlet.MockMvcPrintOnlyOnFailureTestExecutionListener@4cb939d5, org.springframework.boot.test.autoconfigure.web.servlet.WebDriverTestExecutionListener@30b0f674, org.springframework.boot.test.autoconfigure.webservices.client.MockWebServiceServerTestExecutionListener@62818ab0, org.springframework.boot.test.mock.mockito.ResetMocksTestExecutionListener@39f5eba4]
+SQL Error: 1048, SQLState: 23000
+Neither @ContextConfiguration nor @ContextHierarchy found for test class [com.liyt.sell.service.impl.OrderServiceImplTest], using SpringBootContextLoader
+Could not detect default resource locations for test class [com.liyt.sell.service.impl.OrderServiceImplTest]: no resource found for suffixes {-context.xml, Context.groovy}.
+Could not detect default configuration classes for test class [com.liyt.sell.service.impl.OrderServiceImplTest]: OrderServiceImplTest does not declare any static, non-private, non-final, nested classes annotated with @Configuration.
+Found @SpringBootConfiguration com.liyt.sell.SellApplication for test class com.liyt.sell.service.impl.OrderServiceImplTest
+Loaded default TestExecutionListener class names from location [META-INF/spring.factories]: [org.springframework.boot.test.autoconfigure.restdocs.RestDocsTestExecutionListener, org.springframework.boot.test.autoconfigure.web.client.MockRestServiceServerResetTestExecutionListener, org.springframework.boot.test.autoconfigure.web.servlet.MockMvcPrintOnlyOnFailureTestExecutionListener, org.springframework.boot.test.autoconfigure.web.servlet.WebDriverTestExecutionListener, org.springframework.boot.test.autoconfigure.webservices.client.MockWebServiceServerTestExecutionListener, org.springframework.test.context.web.ServletTestExecutionListener, org.springframework.test.context.support.DirtiesContextBeforeModesTestExecutionListener, org.springframework.test.context.event.ApplicationEventsTestExecutionListener, org.springframework.test.context.support.DependencyInjectionTestExecutionListener, org.springframework.test.context.support.DirtiesContextTestExecutionListener, org.springframework.test.context.transaction.TransactionalTestExecutionListener, org.springframework.test.context.jdbc.SqlScriptsTestExecutionListener, org.springframework.test.context.event.EventPublishingTestExecutionListener, org.springframework.boot.test.mock.mockito.MockitoTestExecutionListener, org.springframework.boot.test.mock.mockito.ResetMocksTestExecutionListener]
+Using TestExecutionListeners: [org.springframework.test.context.web.ServletTestExecutionListener@2f59cb6f, org.springframework.test.context.support.DirtiesContextBeforeModesTestExecutionListener@60cbba57, org.springframework.test.context.event.ApplicationEventsTestExecutionListener@614d01b, org.springframework.boot.test.mock.mockito.MockitoTestExecutionListener@3be2ef56, org.springframework.boot.test.autoconfigure.SpringBootDependencyInjectionTestExecutionListener@5a8149f6, org.springframework.test.context.support.DirtiesContextTestExecutionListener@672549f3, org.springframework.test.context.transaction.TransactionalTestExecutionListener@4791d904, org.springframework.test.context.jdbc.SqlScriptsTestExecutionListener@6ba516ff, org.springframework.test.context.event.EventPublishingTestExecutionListener@3bbb3c84, org.springframework.boot.test.autoconfigure.restdocs.RestDocsTestExecutionListener@769c80d1, org.springframework.boot.test.autoconfigure.web.client.MockRestServiceServerResetTestExecutionListener@3f0c2eff, org.springframework.boot.test.autoconfigure.web.servlet.MockMvcPrintOnlyOnFailureTestExecutionListener@7cddc50f, org.springframework.boot.test.autoconfigure.web.servlet.WebDriverTestExecutionListener@1e60890c, org.springframework.boot.test.autoconfigure.webservices.client.MockWebServiceServerTestExecutionListener@c680819, org.springframework.boot.test.mock.mockito.ResetMocksTestExecutionListener@52cda4bd]
+¡¾´´½¨¶©µ¥¡¿ result=OrderDTO(orderId=1656480248890444195, buyerName=Ð¡Ä½, buyerPhone=18650092133, buyerAddress=»ð±ÒÍø»ð±ÒÍø, buyerOpenid=ew3euwhd7sjw9diwkq, orderAmount=null, orderStatus=null, payStatus=null, shopId=null, createTime=null, updateTime=null, orderDetailList=[OrderDetail(detailId=1656480248932656880, orderId=1656480248890444195, productId=1234568, productName=Ã¢¹û±ù, productPrice=20.00, productQuantity=2, productIcon=https://gimg2.baidu.com/image_search/src=http%3A%2F%2Fp1.meituan.net%2Fdeal%2F0e7c714de742e1b70273f1820ee2202874190.jpg&refer=http%3A%2F%2Fp1.meituan.net&app=2002&size=f9999,10000&q=a80&n=0&g=0n&fmt=jpeg?sec=1646814595&t=fbfa49e860b1ef492e91185a7fe91c9d), OrderDetail(detailId=1656480249008404586, orderId=1656480248890444195, productId=123457, productName=Æ¤Æ¤Ïº, productPrice=3.20, productQuantity=4, productIcon=https://gimg2.baidu.com/image_search/src=http%3A%2F%2Fbkimg.cdn.bcebos.com%2Fpic%2F1c950a7b02087bf40ad1fe009c98402c11dfa8ec618c&refer=http%3A%2F%2Fbkimg.cdn.bcebos.com&app=2002&size=f9999,10000&q=a80&n=0&g=0n&fmt=jpeg?sec=1646814464&t=446aa397e91b3cb8a540ca04476e00a0)])
+¡¾²éÑ¯µ¥¸ö¶©µ¥¡¿result=OrderDTO(orderId=1643274589837111258, buyerName=ÀîÑåÍ¢, buyerPhone=17650022293, buyerAddress=Óä¾°Íå, buyerOpenid=110115, orderAmount=26.40, orderStatus=1, payStatus=0, shopId=1, createTime=2022-01-27 04:31:33.0, updateTime=2022-06-29 05:15:49.0, orderDetailList=[OrderDetail(detailId=1643274589902540166, orderId=1643274589837111258, productId=1234568, productName=Ã¢¹û±ù, productPrice=20.00, productQuantity=1, productIcon=https://gimg2.baidu.com/image_search/src=http%3A%2F%2Fp1.meituan.net%2Fdeal%2F0e7c714de742e1b70273f1820ee2202874190.jpg&refer=http%3A%2F%2Fp1.meituan.net&app=2002&size=f9999,10000&q=a80&n=0&g=0n&fmt=jpeg?sec=1646814595&t=fbfa49e860b1ef492e91185a7fe91c9d), OrderDetail(detailId=1643274589928188046, orderId=1643274589837111258, productId=123457, productName=Æ¤Æ¤Ïº, productPrice=3.20, productQuantity=2, productIcon=https://gimg2.baidu.com/image_search/src=http%3A%2F%2Fbkimg.cdn.bcebos.com%2Fpic%2F1c950a7b02087bf40ad1fe009c98402c11dfa8ec618c&refer=http%3A%2F%2Fbkimg.cdn.bcebos.com&app=2002&size=f9999,10000&q=a80&n=0&g=0n&fmt=jpeg?sec=1646814464&t=446aa397e91b3cb8a540ca04476e00a0)])
+Neither @ContextConfiguration nor @ContextHierarchy found for test class [com.liyt.sell.service.impl.ProductServiceImplTest], using SpringBootContextLoader
+Could not detect default resource locations for test class [com.liyt.sell.service.impl.ProductServiceImplTest]: no resource found for suffixes {-context.xml, Context.groovy}.
+Could not detect default configuration classes for test class [com.liyt.sell.service.impl.ProductServiceImplTest]: ProductServiceImplTest does not declare any static, non-private, non-final, nested classes annotated with @Configuration.
+Found @SpringBootConfiguration com.liyt.sell.SellApplication for test class com.liyt.sell.service.impl.ProductServiceImplTest
+Loaded default TestExecutionListener class names from location [META-INF/spring.factories]: [org.springframework.boot.test.autoconfigure.restdocs.RestDocsTestExecutionListener, org.springframework.boot.test.autoconfigure.web.client.MockRestServiceServerResetTestExecutionListener, org.springframework.boot.test.autoconfigure.web.servlet.MockMvcPrintOnlyOnFailureTestExecutionListener, org.springframework.boot.test.autoconfigure.web.servlet.WebDriverTestExecutionListener, org.springframework.boot.test.autoconfigure.webservices.client.MockWebServiceServerTestExecutionListener, org.springframework.test.context.web.ServletTestExecutionListener, org.springframework.test.context.support.DirtiesContextBeforeModesTestExecutionListener, org.springframework.test.context.event.ApplicationEventsTestExecutionListener, org.springframework.test.context.support.DependencyInjectionTestExecutionListener, org.springframework.test.context.support.DirtiesContextTestExecutionListener, org.springframework.test.context.transaction.TransactionalTestExecutionListener, org.springframework.test.context.jdbc.SqlScriptsTestExecutionListener, org.springframework.test.context.event.EventPublishingTestExecutionListener, org.springframework.boot.test.mock.mockito.MockitoTestExecutionListener, org.springframework.boot.test.mock.mockito.ResetMocksTestExecutionListener]
+Using TestExecutionListeners: [org.springframework.test.context.web.ServletTestExecutionListener@689fe2a3, org.springframework.test.context.support.DirtiesContextBeforeModesTestExecutionListener@5257123d, org.springframework.test.context.event.ApplicationEventsTestExecutionListener@261c5d1f, org.springframework.boot.test.mock.mockito.MockitoTestExecutionListener@570089c4, org.springframework.boot.test.autoconfigure.SpringBootDependencyInjectionTestExecutionListener@409df37d, org.springframework.test.context.support.DirtiesContextTestExecutionListener@2ab1c7a9, org.springframework.test.context.transaction.TransactionalTestExecutionListener@6e818345, org.springframework.test.context.jdbc.SqlScriptsTestExecutionListener@3d9c69f8, org.springframework.test.context.event.EventPublishingTestExecutionListener@1235732d, org.springframework.boot.test.autoconfigure.restdocs.RestDocsTestExecutionListener@369d624d, org.springframework.boot.test.autoconfigure.web.client.MockRestServiceServerResetTestExecutionListener@54644470, org.springframework.boot.test.autoconfigure.web.servlet.MockMvcPrintOnlyOnFailureTestExecutionListener@a6924ad, org.springframework.boot.test.autoconfigure.web.servlet.WebDriverTestExecutionListener@33fc92d6, org.springframework.boot.test.autoconfigure.webservices.client.MockWebServiceServerTestExecutionListener@6e2e11ee, org.springframework.boot.test.mock.mockito.ResetMocksTestExecutionListener@189f9f9f]
+SQL Error: 1048, SQLState: 23000
+HHH000010: On release of batch it still contained JDBC statements
+Neither @ContextConfiguration nor @ContextHierarchy found for test class [com.liyt.sell.service.impl.ShopServiceImplTest], using SpringBootContextLoader
+Could not detect default resource locations for test class [com.liyt.sell.service.impl.ShopServiceImplTest]: no resource found for suffixes {-context.xml, Context.groovy}.
+Could not detect default configuration classes for test class [com.liyt.sell.service.impl.ShopServiceImplTest]: ShopServiceImplTest does not declare any static, non-private, non-final, nested classes annotated with @Configuration.
+Found @SpringBootConfiguration com.liyt.sell.SellApplication for test class com.liyt.sell.service.impl.ShopServiceImplTest
+Loaded default TestExecutionListener class names from location [META-INF/spring.factories]: [org.springframework.boot.test.autoconfigure.restdocs.RestDocsTestExecutionListener, org.springframework.boot.test.autoconfigure.web.client.MockRestServiceServerResetTestExecutionListener, org.springframework.boot.test.autoconfigure.web.servlet.MockMvcPrintOnlyOnFailureTestExecutionListener, org.springframework.boot.test.autoconfigure.web.servlet.WebDriverTestExecutionListener, org.springframework.boot.test.autoconfigure.webservices.client.MockWebServiceServerTestExecutionListener, org.springframework.test.context.web.ServletTestExecutionListener, org.springframework.test.context.support.DirtiesContextBeforeModesTestExecutionListener, org.springframework.test.context.event.ApplicationEventsTestExecutionListener, org.springframework.test.context.support.DependencyInjectionTestExecutionListener, org.springframework.test.context.support.DirtiesContextTestExecutionListener, org.springframework.test.context.transaction.TransactionalTestExecutionListener, org.springframework.test.context.jdbc.SqlScriptsTestExecutionListener, org.springframework.test.context.event.EventPublishingTestExecutionListener, org.springframework.boot.test.mock.mockito.MockitoTestExecutionListener, org.springframework.boot.test.mock.mockito.ResetMocksTestExecutionListener]
+Using TestExecutionListeners: [org.springframework.test.context.web.ServletTestExecutionListener@5da799, org.springframework.test.context.support.DirtiesContextBeforeModesTestExecutionListener@2b0d6bf2, org.springframework.test.context.event.ApplicationEventsTestExecutionListener@a15e3c1, org.springframework.boot.test.mock.mockito.MockitoTestExecutionListener@46c92d27, org.springframework.boot.test.autoconfigure.SpringBootDependencyInjectionTestExecutionListener@2bc52b08, org.springframework.test.context.support.DirtiesContextTestExecutionListener@6b578779, org.springframework.test.context.transaction.TransactionalTestExecutionListener@4e797a39, org.springframework.test.context.jdbc.SqlScriptsTestExecutionListener@41d6d6c4, org.springframework.test.context.event.EventPublishingTestExecutionListener@4349389d, org.springframework.boot.test.autoconfigure.restdocs.RestDocsTestExecutionListener@147203c2, org.springframework.boot.test.autoconfigure.web.client.MockRestServiceServerResetTestExecutionListener@11df0bc7, org.springframework.boot.test.autoconfigure.web.servlet.MockMvcPrintOnlyOnFailureTestExecutionListener@66c88fce, org.springframework.boot.test.autoconfigure.web.servlet.WebDriverTestExecutionListener@6ccfce5a, org.springframework.boot.test.autoconfigure.webservices.client.MockWebServiceServerTestExecutionListener@68a7bc12, org.springframework.boot.test.mock.mockito.ResetMocksTestExecutionListener@14f03f2]
+Closing JPA EntityManagerFactory for persistence unit 'default'
+HikariPool-1 - Shutdown initiated...
+HikariPool-1 - Shutdown completed.
+Closing JPA EntityManagerFactory for persistence unit 'default'
+HikariPool-1 - Shutdown initiated...
+HikariPool-1 - Shutdown completed.
+HV000001: Hibernate Validator 6.2.0.Final
+Starting SellApplication using Java 17 on DESKTOP-B6BC0A3 with PID 41480 (D:\Data\ICES\sell\target\classes started by Walker in D:\Data\ICES\sell)
+No active profile set, falling back to default profiles: default
+Bootstrapping Spring Data JPA repositories in DEFAULT mode.
+Finished Spring Data repository scanning in 49 ms. Found 7 JPA repository interfaces.
+Tomcat initialized with port(s): 8080 (http)
+Loaded Apache Tomcat Native library [1.2.31] using APR version [1.7.0].
+APR capabilities: IPv6 [true], sendfile [true], accept filters [false], random [true], UDS [true].
+APR/OpenSSL configuration: useAprConnector [false], useOpenSSL [true]
+OpenSSL successfully initialized [OpenSSL 1.1.1l  24 Aug 2021]
+Initializing ProtocolHandler ["http-nio-8080"]
+Starting service [Tomcat]
+Starting Servlet engine: [Apache Tomcat/9.0.56]
+Initializing Spring embedded WebApplicationContext
+Root WebApplicationContext: initialization completed in 922 ms
+HikariPool-1 - Starting...
+HikariPool-1 - Start completed.
+HHH000204: Processing PersistenceUnitInfo [name: default]
+HHH000412: Hibernate ORM core version 5.6.4.Final
+HCANN000001: Hibernate Commons Annotations {5.1.2.Final}
+HHH000400: Using dialect: org.hibernate.dialect.MySQL8Dialect
+HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+Initialized JPA EntityManagerFactory for persistence unit 'default'
+spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+Starting ProtocolHandler ["http-nio-8080"]
+Tomcat started on port(s): 8080 (http) with context path '/sell'
+Started SellApplication in 3.014 seconds (JVM running for 3.517)
+Initializing Spring DispatcherServlet 'dispatcherServlet'
+Initializing Servlet 'dispatcherServlet'
+Completed initialization in 0 ms
+SQL Error: 1048, SQLState: 23000
+HHH000010: On release of batch it still contained JDBC statements
+SQL Error: 1048, SQLState: 23000
+HHH000010: On release of batch it still contained JDBC statements
+SQL Error: 1048, SQLState: 23000
+HHH000010: On release of batch it still contained JDBC statements
+Closing JPA EntityManagerFactory for persistence unit 'default'
+HikariPool-1 - Shutdown initiated...
+HikariPool-1 - Shutdown completed.
+HV000001: Hibernate Validator 6.2.0.Final
+Starting SellApplication using Java 17 on DESKTOP-B6BC0A3 with PID 44736 (D:\Data\ICES\sell\target\classes started by Walker in D:\Data\ICES\sell)
+No active profile set, falling back to default profiles: default
+Bootstrapping Spring Data JPA repositories in DEFAULT mode.
+Finished Spring Data repository scanning in 48 ms. Found 7 JPA repository interfaces.
+Tomcat initialized with port(s): 8080 (http)
+Loaded Apache Tomcat Native library [1.2.31] using APR version [1.7.0].
+APR capabilities: IPv6 [true], sendfile [true], accept filters [false], random [true], UDS [true].
+APR/OpenSSL configuration: useAprConnector [false], useOpenSSL [true]
+OpenSSL successfully initialized [OpenSSL 1.1.1l  24 Aug 2021]
+Initializing ProtocolHandler ["http-nio-8080"]
+Starting service [Tomcat]
+Starting Servlet engine: [Apache Tomcat/9.0.56]
+Initializing Spring embedded WebApplicationContext
+Root WebApplicationContext: initialization completed in 899 ms
+HikariPool-1 - Starting...
+HikariPool-1 - Start completed.
+HHH000204: Processing PersistenceUnitInfo [name: default]
+HHH000412: Hibernate ORM core version 5.6.4.Final
+HCANN000001: Hibernate Commons Annotations {5.1.2.Final}
+HHH000400: Using dialect: org.hibernate.dialect.MySQL8Dialect
+HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+Initialized JPA EntityManagerFactory for persistence unit 'default'
+spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+Starting ProtocolHandler ["http-nio-8080"]
+Tomcat started on port(s): 8080 (http) with context path '/sell'
+Started SellApplication in 2.939 seconds (JVM running for 3.423)
+Initializing Spring DispatcherServlet 'dispatcherServlet'
+Initializing Servlet 'dispatcherServlet'
+Completed initialization in 0 ms
+Closing JPA EntityManagerFactory for persistence unit 'default'
+HikariPool-1 - Shutdown initiated...
+HikariPool-1 - Shutdown completed.
+Starting OrderDetailRepositoryTest using Java 17 on DESKTOP-B6BC0A3 with PID 45876 (started by Walker in D:\Data\ICES\sell)
+No active profile set, falling back to default profiles: default
+HV000001: Hibernate Validator 6.2.0.Final
+Bootstrapping Spring Data JPA repositories in DEFAULT mode.
+Finished Spring Data repository scanning in 74 ms. Found 7 JPA repository interfaces.
+HikariPool-1 - Starting...
+HikariPool-1 - Start completed.
+HHH000204: Processing PersistenceUnitInfo [name: default]
+HHH000412: Hibernate ORM core version 5.6.4.Final
+HCANN000001: Hibernate Commons Annotations {5.1.2.Final}
+HHH000400: Using dialect: org.hibernate.dialect.MySQL8Dialect
+HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+Initialized JPA EntityManagerFactory for persistence unit 'default'
+spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+Started OrderDetailRepositoryTest in 4.322 seconds (JVM running for 5.155)
+Neither @ContextConfiguration nor @ContextHierarchy found for test class [com.liyt.sell.repository.OrderMasterRepositoryTest], using SpringBootContextLoader
+Could not detect default resource locations for test class [com.liyt.sell.repository.OrderMasterRepositoryTest]: no resource found for suffixes {-context.xml, Context.groovy}.
+Could not detect default configuration classes for test class [com.liyt.sell.repository.OrderMasterRepositoryTest]: OrderMasterRepositoryTest does not declare any static, non-private, non-final, nested classes annotated with @Configuration.
+Found @SpringBootConfiguration com.liyt.sell.SellApplication for test class com.liyt.sell.repository.OrderMasterRepositoryTest
+Loaded default TestExecutionListener class names from location [META-INF/spring.factories]: [org.springframework.boot.test.autoconfigure.restdocs.RestDocsTestExecutionListener, org.springframework.boot.test.autoconfigure.web.client.MockRestServiceServerResetTestExecutionListener, org.springframework.boot.test.autoconfigure.web.servlet.MockMvcPrintOnlyOnFailureTestExecutionListener, org.springframework.boot.test.autoconfigure.web.servlet.WebDriverTestExecutionListener, org.springframework.boot.test.autoconfigure.webservices.client.MockWebServiceServerTestExecutionListener, org.springframework.test.context.web.ServletTestExecutionListener, org.springframework.test.context.support.DirtiesContextBeforeModesTestExecutionListener, org.springframework.test.context.event.ApplicationEventsTestExecutionListener, org.springframework.test.context.support.DependencyInjectionTestExecutionListener, org.springframework.test.context.support.DirtiesContextTestExecutionListener, org.springframework.test.context.transaction.TransactionalTestExecutionListener, org.springframework.test.context.jdbc.SqlScriptsTestExecutionListener, org.springframework.test.context.event.EventPublishingTestExecutionListener, org.springframework.boot.test.mock.mockito.MockitoTestExecutionListener, org.springframework.boot.test.mock.mockito.ResetMocksTestExecutionListener]
+Using TestExecutionListeners: [org.springframework.test.context.web.ServletTestExecutionListener@30b075b9, org.springframework.test.context.support.DirtiesContextBeforeModesTestExecutionListener@510e0dd2, org.springframework.test.context.event.ApplicationEventsTestExecutionListener@54a98358, org.springframework.boot.test.mock.mockito.MockitoTestExecutionListener@1f7853af, org.springframework.boot.test.autoconfigure.SpringBootDependencyInjectionTestExecutionListener@2c56e044, org.springframework.test.context.support.DirtiesContextTestExecutionListener@d970881, org.springframework.test.context.transaction.TransactionalTestExecutionListener@153cf928, org.springframework.test.context.jdbc.SqlScriptsTestExecutionListener@4884350b, org.springframework.test.context.event.EventPublishingTestExecutionListener@53cba89f, org.springframework.boot.test.autoconfigure.restdocs.RestDocsTestExecutionListener@66ad7167, org.springframework.boot.test.autoconfigure.web.client.MockRestServiceServerResetTestExecutionListener@14aa2123, org.springframework.boot.test.autoconfigure.web.servlet.MockMvcPrintOnlyOnFailureTestExecutionListener@7def62d0, org.springframework.boot.test.autoconfigure.web.servlet.WebDriverTestExecutionListener@736eb2a2, org.springframework.boot.test.autoconfigure.webservices.client.MockWebServiceServerTestExecutionListener@7ec5d3e1, org.springframework.boot.test.mock.mockito.ResetMocksTestExecutionListener@3b235623]
+SQL Error: 1048, SQLState: 23000
+HHH000010: On release of batch it still contained JDBC statements
+Neither @ContextConfiguration nor @ContextHierarchy found for test class [com.liyt.sell.repository.ProductInfoRepositoryTest], using SpringBootContextLoader
+Could not detect default resource locations for test class [com.liyt.sell.repository.ProductInfoRepositoryTest]: no resource found for suffixes {-context.xml, Context.groovy}.
+Could not detect default configuration classes for test class [com.liyt.sell.repository.ProductInfoRepositoryTest]: ProductInfoRepositoryTest does not declare any static, non-private, non-final, nested classes annotated with @Configuration.
+Found @SpringBootConfiguration com.liyt.sell.SellApplication for test class com.liyt.sell.repository.ProductInfoRepositoryTest
+Loaded default TestExecutionListener class names from location [META-INF/spring.factories]: [org.springframework.boot.test.autoconfigure.restdocs.RestDocsTestExecutionListener, org.springframework.boot.test.autoconfigure.web.client.MockRestServiceServerResetTestExecutionListener, org.springframework.boot.test.autoconfigure.web.servlet.MockMvcPrintOnlyOnFailureTestExecutionListener, org.springframework.boot.test.autoconfigure.web.servlet.WebDriverTestExecutionListener, org.springframework.boot.test.autoconfigure.webservices.client.MockWebServiceServerTestExecutionListener, org.springframework.test.context.web.ServletTestExecutionListener, org.springframework.test.context.support.DirtiesContextBeforeModesTestExecutionListener, org.springframework.test.context.event.ApplicationEventsTestExecutionListener, org.springframework.test.context.support.DependencyInjectionTestExecutionListener, org.springframework.test.context.support.DirtiesContextTestExecutionListener, org.springframework.test.context.transaction.TransactionalTestExecutionListener, org.springframework.test.context.jdbc.SqlScriptsTestExecutionListener, org.springframework.test.context.event.EventPublishingTestExecutionListener, org.springframework.boot.test.mock.mockito.MockitoTestExecutionListener, org.springframework.boot.test.mock.mockito.ResetMocksTestExecutionListener]
+Using TestExecutionListeners: [org.springframework.test.context.web.ServletTestExecutionListener@1488d1c, org.springframework.test.context.support.DirtiesContextBeforeModesTestExecutionListener@b21cbbf, org.springframework.test.context.event.ApplicationEventsTestExecutionListener@578ac0be, org.springframework.boot.test.mock.mockito.MockitoTestExecutionListener@4250b0c1, org.springframework.boot.test.autoconfigure.SpringBootDependencyInjectionTestExecutionListener@7b5e5fa, org.springframework.test.context.support.DirtiesContextTestExecutionListener@24caa80, org.springframework.test.context.transaction.TransactionalTestExecutionListener@3420547, org.springframework.test.context.jdbc.SqlScriptsTestExecutionListener@44d36b56, org.springframework.test.context.event.EventPublishingTestExecutionListener@6ce1cc03, org.springframework.boot.test.autoconfigure.restdocs.RestDocsTestExecutionListener@b1e63b5, org.springframework.boot.test.autoconfigure.web.client.MockRestServiceServerResetTestExecutionListener@186537ac, org.springframework.boot.test.autoconfigure.web.servlet.MockMvcPrintOnlyOnFailureTestExecutionListener@4733662d, org.springframework.boot.test.autoconfigure.web.servlet.WebDriverTestExecutionListener@25502b1c, org.springframework.boot.test.autoconfigure.webservices.client.MockWebServiceServerTestExecutionListener@5dabe7c8, org.springframework.boot.test.mock.mockito.ResetMocksTestExecutionListener@6c427386]
+SQL Error: 1048, SQLState: 23000
+HHH000010: On release of batch it still contained JDBC statements
+Neither @ContextConfiguration nor @ContextHierarchy found for test class [com.liyt.sell.repository.SellerInfoRepositoryTest], using SpringBootContextLoader
+Could not detect default resource locations for test class [com.liyt.sell.repository.SellerInfoRepositoryTest]: no resource found for suffixes {-context.xml, Context.groovy}.
+Could not detect default configuration classes for test class [com.liyt.sell.repository.SellerInfoRepositoryTest]: SellerInfoRepositoryTest does not declare any static, non-private, non-final, nested classes annotated with @Configuration.
+Found @SpringBootConfiguration com.liyt.sell.SellApplication for test class com.liyt.sell.repository.SellerInfoRepositoryTest
+Loaded default TestExecutionListener class names from location [META-INF/spring.factories]: [org.springframework.boot.test.autoconfigure.restdocs.RestDocsTestExecutionListener, org.springframework.boot.test.autoconfigure.web.client.MockRestServiceServerResetTestExecutionListener, org.springframework.boot.test.autoconfigure.web.servlet.MockMvcPrintOnlyOnFailureTestExecutionListener, org.springframework.boot.test.autoconfigure.web.servlet.WebDriverTestExecutionListener, org.springframework.boot.test.autoconfigure.webservices.client.MockWebServiceServerTestExecutionListener, org.springframework.test.context.web.ServletTestExecutionListener, org.springframework.test.context.support.DirtiesContextBeforeModesTestExecutionListener, org.springframework.test.context.event.ApplicationEventsTestExecutionListener, org.springframework.test.context.support.DependencyInjectionTestExecutionListener, org.springframework.test.context.support.DirtiesContextTestExecutionListener, org.springframework.test.context.transaction.TransactionalTestExecutionListener, org.springframework.test.context.jdbc.SqlScriptsTestExecutionListener, org.springframework.test.context.event.EventPublishingTestExecutionListener, org.springframework.boot.test.mock.mockito.MockitoTestExecutionListener, org.springframework.boot.test.mock.mockito.ResetMocksTestExecutionListener]
+Using TestExecutionListeners: [org.springframework.test.context.web.ServletTestExecutionListener@1e387974, org.springframework.test.context.support.DirtiesContextBeforeModesTestExecutionListener@2a23c061, org.springframework.test.context.event.ApplicationEventsTestExecutionListener@7c6557da, org.springframework.boot.test.mock.mockito.MockitoTestExecutionListener@642b2176, org.springframework.boot.test.autoconfigure.SpringBootDependencyInjectionTestExecutionListener@3985175e, org.springframework.test.context.support.DirtiesContextTestExecutionListener@d91e8c7, org.springframework.test.context.transaction.TransactionalTestExecutionListener@5b9ca528, org.springframework.test.context.jdbc.SqlScriptsTestExecutionListener@66011fbc, org.springframework.test.context.event.EventPublishingTestExecutionListener@77afdbc5, org.springframework.boot.test.autoconfigure.restdocs.RestDocsTestExecutionListener@757ad227, org.springframework.boot.test.autoconfigure.web.client.MockRestServiceServerResetTestExecutionListener@4b718c45, org.springframework.boot.test.autoconfigure.web.servlet.MockMvcPrintOnlyOnFailureTestExecutionListener@25639668, org.springframework.boot.test.autoconfigure.web.servlet.WebDriverTestExecutionListener@2c1b10f2, org.springframework.boot.test.autoconfigure.webservices.client.MockWebServiceServerTestExecutionListener@f5314bc, org.springframework.boot.test.mock.mockito.ResetMocksTestExecutionListener@4807b2b7]
+Neither @ContextConfiguration nor @ContextHierarchy found for test class [com.liyt.sell.repository.ShopInfoRepositoryTest], using SpringBootContextLoader
+Could not detect default resource locations for test class [com.liyt.sell.repository.ShopInfoRepositoryTest]: no resource found for suffixes {-context.xml, Context.groovy}.
+Could not detect default configuration classes for test class [com.liyt.sell.repository.ShopInfoRepositoryTest]: ShopInfoRepositoryTest does not declare any static, non-private, non-final, nested classes annotated with @Configuration.
+Found @SpringBootConfiguration com.liyt.sell.SellApplication for test class com.liyt.sell.repository.ShopInfoRepositoryTest
+Loaded default TestExecutionListener class names from location [META-INF/spring.factories]: [org.springframework.boot.test.autoconfigure.restdocs.RestDocsTestExecutionListener, org.springframework.boot.test.autoconfigure.web.client.MockRestServiceServerResetTestExecutionListener, org.springframework.boot.test.autoconfigure.web.servlet.MockMvcPrintOnlyOnFailureTestExecutionListener, org.springframework.boot.test.autoconfigure.web.servlet.WebDriverTestExecutionListener, org.springframework.boot.test.autoconfigure.webservices.client.MockWebServiceServerTestExecutionListener, org.springframework.test.context.web.ServletTestExecutionListener, org.springframework.test.context.support.DirtiesContextBeforeModesTestExecutionListener, org.springframework.test.context.event.ApplicationEventsTestExecutionListener, org.springframework.test.context.support.DependencyInjectionTestExecutionListener, org.springframework.test.context.support.DirtiesContextTestExecutionListener, org.springframework.test.context.transaction.TransactionalTestExecutionListener, org.springframework.test.context.jdbc.SqlScriptsTestExecutionListener, org.springframework.test.context.event.EventPublishingTestExecutionListener, org.springframework.boot.test.mock.mockito.MockitoTestExecutionListener, org.springframework.boot.test.mock.mockito.ResetMocksTestExecutionListener]
+Using TestExecutionListeners: [org.springframework.test.context.web.ServletTestExecutionListener@70a3b, org.springframework.test.context.support.DirtiesContextBeforeModesTestExecutionListener@18baee88, org.springframework.test.context.event.ApplicationEventsTestExecutionListener@59e67a18, org.springframework.boot.test.mock.mockito.MockitoTestExecutionListener@37289e90, org.springframework.boot.test.autoconfigure.SpringBootDependencyInjectionTestExecutionListener@f461c9c, org.springframework.test.context.support.DirtiesContextTestExecutionListener@40477d52, org.springframework.test.context.transaction.TransactionalTestExecutionListener@2a1be9f8, org.springframework.test.context.jdbc.SqlScriptsTestExecutionListener@59b43e35, org.springframework.test.context.event.EventPublishingTestExecutionListener@66297b63, org.springframework.boot.test.autoconfigure.restdocs.RestDocsTestExecutionListener@1d7f2719, org.springframework.boot.test.autoconfigure.web.client.MockRestServiceServerResetTestExecutionListener@685e5967, org.springframework.boot.test.autoconfigure.web.servlet.MockMvcPrintOnlyOnFailureTestExecutionListener@106387cf, org.springframework.boot.test.autoconfigure.web.servlet.WebDriverTestExecutionListener@3d3c14c3, org.springframework.boot.test.autoconfigure.webservices.client.MockWebServiceServerTestExecutionListener@599fab92, org.springframework.boot.test.mock.mockito.ResetMocksTestExecutionListener@439054a7]
+Neither @ContextConfiguration nor @ContextHierarchy found for test class [com.liyt.sell.SellApplicationTests], using SpringBootContextLoader
+Could not detect default resource locations for test class [com.liyt.sell.SellApplicationTests]: no resource found for suffixes {-context.xml, Context.groovy}.
+Could not detect default configuration classes for test class [com.liyt.sell.SellApplicationTests]: SellApplicationTests does not declare any static, non-private, non-final, nested classes annotated with @Configuration.
+Found @SpringBootConfiguration com.liyt.sell.SellApplication for test class com.liyt.sell.SellApplicationTests
+Loaded default TestExecutionListener class names from location [META-INF/spring.factories]: [org.springframework.boot.test.autoconfigure.restdocs.RestDocsTestExecutionListener, org.springframework.boot.test.autoconfigure.web.client.MockRestServiceServerResetTestExecutionListener, org.springframework.boot.test.autoconfigure.web.servlet.MockMvcPrintOnlyOnFailureTestExecutionListener, org.springframework.boot.test.autoconfigure.web.servlet.WebDriverTestExecutionListener, org.springframework.boot.test.autoconfigure.webservices.client.MockWebServiceServerTestExecutionListener, org.springframework.test.context.web.ServletTestExecutionListener, org.springframework.test.context.support.DirtiesContextBeforeModesTestExecutionListener, org.springframework.test.context.event.ApplicationEventsTestExecutionListener, org.springframework.test.context.support.DependencyInjectionTestExecutionListener, org.springframework.test.context.support.DirtiesContextTestExecutionListener, org.springframework.test.context.transaction.TransactionalTestExecutionListener, org.springframework.test.context.jdbc.SqlScriptsTestExecutionListener, org.springframework.test.context.event.EventPublishingTestExecutionListener, org.springframework.boot.test.mock.mockito.MockitoTestExecutionListener, org.springframework.boot.test.mock.mockito.ResetMocksTestExecutionListener]
+Using TestExecutionListeners: [org.springframework.test.context.web.ServletTestExecutionListener@765d67dd, org.springframework.test.context.support.DirtiesContextBeforeModesTestExecutionListener@2e68bd3d, org.springframework.test.context.event.ApplicationEventsTestExecutionListener@2fda92e0, org.springframework.boot.test.mock.mockito.MockitoTestExecutionListener@535adf36, org.springframework.boot.test.autoconfigure.SpringBootDependencyInjectionTestExecutionListener@4ea4290f, org.springframework.test.context.support.DirtiesContextTestExecutionListener@25cef4b3, org.springframework.test.context.transaction.TransactionalTestExecutionListener@5e783f78, org.springframework.test.context.jdbc.SqlScriptsTestExecutionListener@5bdef8ee, org.springframework.test.context.event.EventPublishingTestExecutionListener@345d4ecb, org.springframework.boot.test.autoconfigure.restdocs.RestDocsTestExecutionListener@66e44f9f, org.springframework.boot.test.autoconfigure.web.client.MockRestServiceServerResetTestExecutionListener@79f82fc4, org.springframework.boot.test.autoconfigure.web.servlet.MockMvcPrintOnlyOnFailureTestExecutionListener@554db19d, org.springframework.boot.test.autoconfigure.web.servlet.WebDriverTestExecutionListener@bb896e9, org.springframework.boot.test.autoconfigure.webservices.client.MockWebServiceServerTestExecutionListener@4fe4b8b6, org.springframework.boot.test.mock.mockito.ResetMocksTestExecutionListener@77da2881]
+Neither @ContextConfiguration nor @ContextHierarchy found for test class [com.liyt.sell.service.impl.BuyerServiceImplTest], using SpringBootContextLoader
+Could not detect default resource locations for test class [com.liyt.sell.service.impl.BuyerServiceImplTest]: no resource found for suffixes {-context.xml, Context.groovy}.
+Could not detect default configuration classes for test class [com.liyt.sell.service.impl.BuyerServiceImplTest]: BuyerServiceImplTest does not declare any static, non-private, non-final, nested classes annotated with @Configuration.
+Found @SpringBootConfiguration com.liyt.sell.SellApplication for test class com.liyt.sell.service.impl.BuyerServiceImplTest
+Loaded default TestExecutionListener class names from location [META-INF/spring.factories]: [org.springframework.boot.test.autoconfigure.restdocs.RestDocsTestExecutionListener, org.springframework.boot.test.autoconfigure.web.client.MockRestServiceServerResetTestExecutionListener, org.springframework.boot.test.autoconfigure.web.servlet.MockMvcPrintOnlyOnFailureTestExecutionListener, org.springframework.boot.test.autoconfigure.web.servlet.WebDriverTestExecutionListener, org.springframework.boot.test.autoconfigure.webservices.client.MockWebServiceServerTestExecutionListener, org.springframework.test.context.web.ServletTestExecutionListener, org.springframework.test.context.support.DirtiesContextBeforeModesTestExecutionListener, org.springframework.test.context.event.ApplicationEventsTestExecutionListener, org.springframework.test.context.support.DependencyInjectionTestExecutionListener, org.springframework.test.context.support.DirtiesContextTestExecutionListener, org.springframework.test.context.transaction.TransactionalTestExecutionListener, org.springframework.test.context.jdbc.SqlScriptsTestExecutionListener, org.springframework.test.context.event.EventPublishingTestExecutionListener, org.springframework.boot.test.mock.mockito.MockitoTestExecutionListener, org.springframework.boot.test.mock.mockito.ResetMocksTestExecutionListener]
+Using TestExecutionListeners: [org.springframework.test.context.web.ServletTestExecutionListener@6aa85fcf, org.springframework.test.context.support.DirtiesContextBeforeModesTestExecutionListener@4c90fc3b, org.springframework.test.context.event.ApplicationEventsTestExecutionListener@1e14ed59, org.springframework.boot.test.mock.mockito.MockitoTestExecutionListener@5dfb078, org.springframework.boot.test.autoconfigure.SpringBootDependencyInjectionTestExecutionListener@2d21d12b, org.springframework.test.context.support.DirtiesContextTestExecutionListener@669b8190, org.springframework.test.context.transaction.TransactionalTestExecutionListener@5fdcc63f, org.springframework.test.context.jdbc.SqlScriptsTestExecutionListener@27f8f1cc, org.springframework.test.context.event.EventPublishingTestExecutionListener@473c491, org.springframework.boot.test.autoconfigure.restdocs.RestDocsTestExecutionListener@3ede428e, org.springframework.boot.test.autoconfigure.web.client.MockRestServiceServerResetTestExecutionListener@70a8654, org.springframework.boot.test.autoconfigure.web.servlet.MockMvcPrintOnlyOnFailureTestExecutionListener@671c71e8, org.springframework.boot.test.autoconfigure.web.servlet.WebDriverTestExecutionListener@7d5176d6, org.springframework.boot.test.autoconfigure.webservices.client.MockWebServiceServerTestExecutionListener@31d791c0, org.springframework.boot.test.mock.mockito.ResetMocksTestExecutionListener@623c9988]
+Neither @ContextConfiguration nor @ContextHierarchy found for test class [com.liyt.sell.service.impl.CategoryServiceImplTest], using SpringBootContextLoader
+Could not detect default resource locations for test class [com.liyt.sell.service.impl.CategoryServiceImplTest]: no resource found for suffixes {-context.xml, Context.groovy}.
+Could not detect default configuration classes for test class [com.liyt.sell.service.impl.CategoryServiceImplTest]: CategoryServiceImplTest does not declare any static, non-private, non-final, nested classes annotated with @Configuration.
+Found @SpringBootConfiguration com.liyt.sell.SellApplication for test class com.liyt.sell.service.impl.CategoryServiceImplTest
+Loaded default TestExecutionListener class names from location [META-INF/spring.factories]: [org.springframework.boot.test.autoconfigure.restdocs.RestDocsTestExecutionListener, org.springframework.boot.test.autoconfigure.web.client.MockRestServiceServerResetTestExecutionListener, org.springframework.boot.test.autoconfigure.web.servlet.MockMvcPrintOnlyOnFailureTestExecutionListener, org.springframework.boot.test.autoconfigure.web.servlet.WebDriverTestExecutionListener, org.springframework.boot.test.autoconfigure.webservices.client.MockWebServiceServerTestExecutionListener, org.springframework.test.context.web.ServletTestExecutionListener, org.springframework.test.context.support.DirtiesContextBeforeModesTestExecutionListener, org.springframework.test.context.event.ApplicationEventsTestExecutionListener, org.springframework.test.context.support.DependencyInjectionTestExecutionListener, org.springframework.test.context.support.DirtiesContextTestExecutionListener, org.springframework.test.context.transaction.TransactionalTestExecutionListener, org.springframework.test.context.jdbc.SqlScriptsTestExecutionListener, org.springframework.test.context.event.EventPublishingTestExecutionListener, org.springframework.boot.test.mock.mockito.MockitoTestExecutionListener, org.springframework.boot.test.mock.mockito.ResetMocksTestExecutionListener]
+Using TestExecutionListeners: [org.springframework.test.context.web.ServletTestExecutionListener@5471342, org.springframework.test.context.support.DirtiesContextBeforeModesTestExecutionListener@2e1003d9, org.springframework.test.context.event.ApplicationEventsTestExecutionListener@4e9d1119, org.springframework.boot.test.mock.mockito.MockitoTestExecutionListener@5d1907fb, org.springframework.boot.test.autoconfigure.SpringBootDependencyInjectionTestExecutionListener@6079d219, org.springframework.test.context.support.DirtiesContextTestExecutionListener@4ed90b04, org.springframework.test.context.transaction.TransactionalTestExecutionListener@686ace1f, org.springframework.test.context.jdbc.SqlScriptsTestExecutionListener@7dd92a36, org.springframework.test.context.event.EventPublishingTestExecutionListener@531ed68e, org.springframework.boot.test.autoconfigure.restdocs.RestDocsTestExecutionListener@551976c2, org.springframework.boot.test.autoconfigure.web.client.MockRestServiceServerResetTestExecutionListener@6bbd4048, org.springframework.boot.test.autoconfigure.web.servlet.MockMvcPrintOnlyOnFailureTestExecutionListener@5f815f93, org.springframework.boot.test.autoconfigure.web.servlet.WebDriverTestExecutionListener@7a8e484b, org.springframework.boot.test.autoconfigure.webservices.client.MockWebServiceServerTestExecutionListener@643f8ebe, org.springframework.boot.test.mock.mockito.ResetMocksTestExecutionListener@65013d71]
+SQL Error: 1048, SQLState: 23000
+Neither @ContextConfiguration nor @ContextHierarchy found for test class [com.liyt.sell.service.impl.OrderServiceImplTest], using SpringBootContextLoader
+Could not detect default resource locations for test class [com.liyt.sell.service.impl.OrderServiceImplTest]: no resource found for suffixes {-context.xml, Context.groovy}.
+Could not detect default configuration classes for test class [com.liyt.sell.service.impl.OrderServiceImplTest]: OrderServiceImplTest does not declare any static, non-private, non-final, nested classes annotated with @Configuration.
+Found @SpringBootConfiguration com.liyt.sell.SellApplication for test class com.liyt.sell.service.impl.OrderServiceImplTest
+Loaded default TestExecutionListener class names from location [META-INF/spring.factories]: [org.springframework.boot.test.autoconfigure.restdocs.RestDocsTestExecutionListener, org.springframework.boot.test.autoconfigure.web.client.MockRestServiceServerResetTestExecutionListener, org.springframework.boot.test.autoconfigure.web.servlet.MockMvcPrintOnlyOnFailureTestExecutionListener, org.springframework.boot.test.autoconfigure.web.servlet.WebDriverTestExecutionListener, org.springframework.boot.test.autoconfigure.webservices.client.MockWebServiceServerTestExecutionListener, org.springframework.test.context.web.ServletTestExecutionListener, org.springframework.test.context.support.DirtiesContextBeforeModesTestExecutionListener, org.springframework.test.context.event.ApplicationEventsTestExecutionListener, org.springframework.test.context.support.DependencyInjectionTestExecutionListener, org.springframework.test.context.support.DirtiesContextTestExecutionListener, org.springframework.test.context.transaction.TransactionalTestExecutionListener, org.springframework.test.context.jdbc.SqlScriptsTestExecutionListener, org.springframework.test.context.event.EventPublishingTestExecutionListener, org.springframework.boot.test.mock.mockito.MockitoTestExecutionListener, org.springframework.boot.test.mock.mockito.ResetMocksTestExecutionListener]
+Using TestExecutionListeners: [org.springframework.test.context.web.ServletTestExecutionListener@2f403d0a, org.springframework.test.context.support.DirtiesContextBeforeModesTestExecutionListener@186fc6e, org.springframework.test.context.event.ApplicationEventsTestExecutionListener@1bd5b1c8, org.springframework.boot.test.mock.mockito.MockitoTestExecutionListener@569026df, org.springframework.boot.test.autoconfigure.SpringBootDependencyInjectionTestExecutionListener@7896e96a, org.springframework.test.context.support.DirtiesContextTestExecutionListener@4e451f9a, org.springframework.test.context.transaction.TransactionalTestExecutionListener@7828bc6b, org.springframework.test.context.jdbc.SqlScriptsTestExecutionListener@2f59cb6f, org.springframework.test.context.event.EventPublishingTestExecutionListener@60cbba57, org.springframework.boot.test.autoconfigure.restdocs.RestDocsTestExecutionListener@614d01b, org.springframework.boot.test.autoconfigure.web.client.MockRestServiceServerResetTestExecutionListener@3be2ef56, org.springframework.boot.test.autoconfigure.web.servlet.MockMvcPrintOnlyOnFailureTestExecutionListener@5a8149f6, org.springframework.boot.test.autoconfigure.web.servlet.WebDriverTestExecutionListener@672549f3, org.springframework.boot.test.autoconfigure.webservices.client.MockWebServiceServerTestExecutionListener@4791d904, org.springframework.boot.test.mock.mockito.ResetMocksTestExecutionListener@6ba516ff]
+¡¾´´½¨¶©µ¥¡¿ result=OrderDTO(orderId=1656480731403538886, buyerName=Ð¡Ä½, buyerPhone=18650092133, buyerAddress=»ð±ÒÍø»ð±ÒÍø, buyerOpenid=ew3euwhd7sjw9diwkq, orderAmount=null, orderStatus=null, payStatus=null, shopId=null, createTime=null, updateTime=null, orderDetailList=[OrderDetail(detailId=1656480731445805411, orderId=1656480731403538886, productId=1234568, productName=Ã¢¹û±ù, productPrice=20.00, productQuantity=2, productIcon=https://gimg2.baidu.com/image_search/src=http%3A%2F%2Fp1.meituan.net%2Fdeal%2F0e7c714de742e1b70273f1820ee2202874190.jpg&refer=http%3A%2F%2Fp1.meituan.net&app=2002&size=f9999,10000&q=a80&n=0&g=0n&fmt=jpeg?sec=1646814595&t=fbfa49e860b1ef492e91185a7fe91c9d), OrderDetail(detailId=1656480731520884899, orderId=1656480731403538886, productId=123457, productName=Æ¤Æ¤Ïº, productPrice=3.20, productQuantity=4, productIcon=https://gimg2.baidu.com/image_search/src=http%3A%2F%2Fbkimg.cdn.bcebos.com%2Fpic%2F1c950a7b02087bf40ad1fe009c98402c11dfa8ec618c&refer=http%3A%2F%2Fbkimg.cdn.bcebos.com&app=2002&size=f9999,10000&q=a80&n=0&g=0n&fmt=jpeg?sec=1646814464&t=446aa397e91b3cb8a540ca04476e00a0)])
+¡¾²éÑ¯µ¥¸ö¶©µ¥¡¿result=OrderDTO(orderId=1643274589837111258, buyerName=ÀîÑåÍ¢, buyerPhone=17650022293, buyerAddress=Óä¾°Íå, buyerOpenid=110115, orderAmount=26.40, orderStatus=1, payStatus=0, shopId=1, createTime=2022-01-27 04:31:33.0, updateTime=2022-06-29 05:15:49.0, orderDetailList=[OrderDetail(detailId=1643274589902540166, orderId=1643274589837111258, productId=1234568, productName=Ã¢¹û±ù, productPrice=20.00, productQuantity=1, productIcon=https://gimg2.baidu.com/image_search/src=http%3A%2F%2Fp1.meituan.net%2Fdeal%2F0e7c714de742e1b70273f1820ee2202874190.jpg&refer=http%3A%2F%2Fp1.meituan.net&app=2002&size=f9999,10000&q=a80&n=0&g=0n&fmt=jpeg?sec=1646814595&t=fbfa49e860b1ef492e91185a7fe91c9d), OrderDetail(detailId=1643274589928188046, orderId=1643274589837111258, productId=123457, productName=Æ¤Æ¤Ïº, productPrice=3.20, productQuantity=2, productIcon=https://gimg2.baidu.com/image_search/src=http%3A%2F%2Fbkimg.cdn.bcebos.com%2Fpic%2F1c950a7b02087bf40ad1fe009c98402c11dfa8ec618c&refer=http%3A%2F%2Fbkimg.cdn.bcebos.com&app=2002&size=f9999,10000&q=a80&n=0&g=0n&fmt=jpeg?sec=1646814464&t=446aa397e91b3cb8a540ca04476e00a0)])
+Neither @ContextConfiguration nor @ContextHierarchy found for test class [com.liyt.sell.service.impl.ProductServiceImplTest], using SpringBootContextLoader
+Could not detect default resource locations for test class [com.liyt.sell.service.impl.ProductServiceImplTest]: no resource found for suffixes {-context.xml, Context.groovy}.
+Could not detect default configuration classes for test class [com.liyt.sell.service.impl.ProductServiceImplTest]: ProductServiceImplTest does not declare any static, non-private, non-final, nested classes annotated with @Configuration.
+Found @SpringBootConfiguration com.liyt.sell.SellApplication for test class com.liyt.sell.service.impl.ProductServiceImplTest
+Loaded default TestExecutionListener class names from location [META-INF/spring.factories]: [org.springframework.boot.test.autoconfigure.restdocs.RestDocsTestExecutionListener, org.springframework.boot.test.autoconfigure.web.client.MockRestServiceServerResetTestExecutionListener, org.springframework.boot.test.autoconfigure.web.servlet.MockMvcPrintOnlyOnFailureTestExecutionListener, org.springframework.boot.test.autoconfigure.web.servlet.WebDriverTestExecutionListener, org.springframework.boot.test.autoconfigure.webservices.client.MockWebServiceServerTestExecutionListener, org.springframework.test.context.web.ServletTestExecutionListener, org.springframework.test.context.support.DirtiesContextBeforeModesTestExecutionListener, org.springframework.test.context.event.ApplicationEventsTestExecutionListener, org.springframework.test.context.support.DependencyInjectionTestExecutionListener, org.springframework.test.context.support.DirtiesContextTestExecutionListener, org.springframework.test.context.transaction.TransactionalTestExecutionListener, org.springframework.test.context.jdbc.SqlScriptsTestExecutionListener, org.springframework.test.context.event.EventPublishingTestExecutionListener, org.springframework.boot.test.mock.mockito.MockitoTestExecutionListener, org.springframework.boot.test.mock.mockito.ResetMocksTestExecutionListener]
+Using TestExecutionListeners: [org.springframework.test.context.web.ServletTestExecutionListener@2e41b65a, org.springframework.test.context.support.DirtiesContextBeforeModesTestExecutionListener@4d25943d, org.springframework.test.context.event.ApplicationEventsTestExecutionListener@2eea0775, org.springframework.boot.test.mock.mockito.MockitoTestExecutionListener@495a9305, org.springframework.boot.test.autoconfigure.SpringBootDependencyInjectionTestExecutionListener@6a0a0f12, org.springframework.test.context.support.DirtiesContextTestExecutionListener@b6fea12, org.springframework.test.context.transaction.TransactionalTestExecutionListener@75c095a5, org.springframework.test.context.jdbc.SqlScriptsTestExecutionListener@689fe2a3, org.springframework.test.context.event.EventPublishingTestExecutionListener@5257123d, org.springframework.boot.test.autoconfigure.restdocs.RestDocsTestExecutionListener@261c5d1f, org.springframework.boot.test.autoconfigure.web.client.MockRestServiceServerResetTestExecutionListener@570089c4, org.springframework.boot.test.autoconfigure.web.servlet.MockMvcPrintOnlyOnFailureTestExecutionListener@409df37d, org.springframework.boot.test.autoconfigure.web.servlet.WebDriverTestExecutionListener@2ab1c7a9, org.springframework.boot.test.autoconfigure.webservices.client.MockWebServiceServerTestExecutionListener@6e818345, org.springframework.boot.test.mock.mockito.ResetMocksTestExecutionListener@3d9c69f8]
+SQL Error: 1048, SQLState: 23000
+HHH000010: On release of batch it still contained JDBC statements
+Neither @ContextConfiguration nor @ContextHierarchy found for test class [com.liyt.sell.service.impl.ShopServiceImplTest], using SpringBootContextLoader
+Could not detect default resource locations for test class [com.liyt.sell.service.impl.ShopServiceImplTest]: no resource found for suffixes {-context.xml, Context.groovy}.
+Could not detect default configuration classes for test class [com.liyt.sell.service.impl.ShopServiceImplTest]: ShopServiceImplTest does not declare any static, non-private, non-final, nested classes annotated with @Configuration.
+Found @SpringBootConfiguration com.liyt.sell.SellApplication for test class com.liyt.sell.service.impl.ShopServiceImplTest
+Loaded default TestExecutionListener class names from location [META-INF/spring.factories]: [org.springframework.boot.test.autoconfigure.restdocs.RestDocsTestExecutionListener, org.springframework.boot.test.autoconfigure.web.client.MockRestServiceServerResetTestExecutionListener, org.springframework.boot.test.autoconfigure.web.servlet.MockMvcPrintOnlyOnFailureTestExecutionListener, org.springframework.boot.test.autoconfigure.web.servlet.WebDriverTestExecutionListener, org.springframework.boot.test.autoconfigure.webservices.client.MockWebServiceServerTestExecutionListener, org.springframework.test.context.web.ServletTestExecutionListener, org.springframework.test.context.support.DirtiesContextBeforeModesTestExecutionListener, org.springframework.test.context.event.ApplicationEventsTestExecutionListener, org.springframework.test.context.support.DependencyInjectionTestExecutionListener, org.springframework.test.context.support.DirtiesContextTestExecutionListener, org.springframework.test.context.transaction.TransactionalTestExecutionListener, org.springframework.test.context.jdbc.SqlScriptsTestExecutionListener, org.springframework.test.context.event.EventPublishingTestExecutionListener, org.springframework.boot.test.mock.mockito.MockitoTestExecutionListener, org.springframework.boot.test.mock.mockito.ResetMocksTestExecutionListener]
+Using TestExecutionListeners: [org.springframework.test.context.web.ServletTestExecutionListener@1d397e87, org.springframework.test.context.support.DirtiesContextBeforeModesTestExecutionListener@36def543, org.springframework.test.context.event.ApplicationEventsTestExecutionListener@2e07dc23, org.springframework.boot.test.mock.mockito.MockitoTestExecutionListener@7859fc7, org.springframework.boot.test.autoconfigure.SpringBootDependencyInjectionTestExecutionListener@519e14f6, org.springframework.test.context.support.DirtiesContextTestExecutionListener@10ab976b, org.springframework.test.context.transaction.TransactionalTestExecutionListener@5da799, org.springframework.test.context.jdbc.SqlScriptsTestExecutionListener@2b0d6bf2, org.springframework.test.context.event.EventPublishingTestExecutionListener@a15e3c1, org.springframework.boot.test.autoconfigure.restdocs.RestDocsTestExecutionListener@46c92d27, org.springframework.boot.test.autoconfigure.web.client.MockRestServiceServerResetTestExecutionListener@2bc52b08, org.springframework.boot.test.autoconfigure.web.servlet.MockMvcPrintOnlyOnFailureTestExecutionListener@6b578779, org.springframework.boot.test.autoconfigure.web.servlet.WebDriverTestExecutionListener@4e797a39, org.springframework.boot.test.autoconfigure.webservices.client.MockWebServiceServerTestExecutionListener@41d6d6c4, org.springframework.boot.test.mock.mockito.ResetMocksTestExecutionListener@4349389d]
+Closing JPA EntityManagerFactory for persistence unit 'default'
+HikariPool-1 - Shutdown initiated...
+HikariPool-1 - Shutdown completed.
+Starting OrderDetailRepositoryTest using Java 17 on DESKTOP-B6BC0A3 with PID 45496 (started by Walker in D:\Data\ICES\sell)
+No active profile set, falling back to default profiles: default
+HV000001: Hibernate Validator 6.2.0.Final
+Bootstrapping Spring Data JPA repositories in DEFAULT mode.
+Finished Spring Data repository scanning in 69 ms. Found 7 JPA repository interfaces.
+HikariPool-1 - Starting...
+HikariPool-1 - Start completed.
+HHH000204: Processing PersistenceUnitInfo [name: default]
+HHH000412: Hibernate ORM core version 5.6.4.Final
+HCANN000001: Hibernate Commons Annotations {5.1.2.Final}
+HHH000400: Using dialect: org.hibernate.dialect.MySQL8Dialect
+HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+Initialized JPA EntityManagerFactory for persistence unit 'default'
+spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+Started OrderDetailRepositoryTest in 4.224 seconds (JVM running for 5.188)
+Closing JPA EntityManagerFactory for persistence unit 'default'
+HikariPool-1 - Shutdown initiated...
+HikariPool-1 - Shutdown completed.
+Starting OrderDetailRepositoryTest using Java 17 on DESKTOP-B6BC0A3 with PID 42356 (started by Walker in D:\Data\ICES\sell)
+No active profile set, falling back to default profiles: default
+HV000001: Hibernate Validator 6.2.0.Final
+Bootstrapping Spring Data JPA repositories in DEFAULT mode.
+Finished Spring Data repository scanning in 68 ms. Found 7 JPA repository interfaces.
+HikariPool-1 - Starting...
+HikariPool-1 - Start completed.
+HHH000204: Processing PersistenceUnitInfo [name: default]
+HHH000412: Hibernate ORM core version 5.6.4.Final
+HCANN000001: Hibernate Commons Annotations {5.1.2.Final}
+HHH000400: Using dialect: org.hibernate.dialect.MySQL8Dialect
+HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+Initialized JPA EntityManagerFactory for persistence unit 'default'
+spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+Started OrderDetailRepositoryTest in 4.271 seconds (JVM running for 5.094)
+Neither @ContextConfiguration nor @ContextHierarchy found for test class [com.liyt.sell.repository.OrderMasterRepositoryTest], using SpringBootContextLoader
+Could not detect default resource locations for test class [com.liyt.sell.repository.OrderMasterRepositoryTest]: no resource found for suffixes {-context.xml, Context.groovy}.
+Could not detect default configuration classes for test class [com.liyt.sell.repository.OrderMasterRepositoryTest]: OrderMasterRepositoryTest does not declare any static, non-private, non-final, nested classes annotated with @Configuration.
+Found @SpringBootConfiguration com.liyt.sell.SellApplication for test class com.liyt.sell.repository.OrderMasterRepositoryTest
+Loaded default TestExecutionListener class names from location [META-INF/spring.factories]: [org.springframework.boot.test.autoconfigure.restdocs.RestDocsTestExecutionListener, org.springframework.boot.test.autoconfigure.web.client.MockRestServiceServerResetTestExecutionListener, org.springframework.boot.test.autoconfigure.web.servlet.MockMvcPrintOnlyOnFailureTestExecutionListener, org.springframework.boot.test.autoconfigure.web.servlet.WebDriverTestExecutionListener, org.springframework.boot.test.autoconfigure.webservices.client.MockWebServiceServerTestExecutionListener, org.springframework.test.context.web.ServletTestExecutionListener, org.springframework.test.context.support.DirtiesContextBeforeModesTestExecutionListener, org.springframework.test.context.event.ApplicationEventsTestExecutionListener, org.springframework.test.context.support.DependencyInjectionTestExecutionListener, org.springframework.test.context.support.DirtiesContextTestExecutionListener, org.springframework.test.context.transaction.TransactionalTestExecutionListener, org.springframework.test.context.jdbc.SqlScriptsTestExecutionListener, org.springframework.test.context.event.EventPublishingTestExecutionListener, org.springframework.boot.test.mock.mockito.MockitoTestExecutionListener, org.springframework.boot.test.mock.mockito.ResetMocksTestExecutionListener]
+Using TestExecutionListeners: [org.springframework.test.context.web.ServletTestExecutionListener@2c56e044, org.springframework.test.context.support.DirtiesContextBeforeModesTestExecutionListener@d970881, org.springframework.test.context.event.ApplicationEventsTestExecutionListener@153cf928, org.springframework.boot.test.mock.mockito.MockitoTestExecutionListener@4884350b, org.springframework.boot.test.autoconfigure.SpringBootDependencyInjectionTestExecutionListener@53cba89f, org.springframework.test.context.support.DirtiesContextTestExecutionListener@66ad7167, org.springframework.test.context.transaction.TransactionalTestExecutionListener@14aa2123, org.springframework.test.context.jdbc.SqlScriptsTestExecutionListener@7def62d0, org.springframework.test.context.event.EventPublishingTestExecutionListener@736eb2a2, org.springframework.boot.test.autoconfigure.restdocs.RestDocsTestExecutionListener@7ec5d3e1, org.springframework.boot.test.autoconfigure.web.client.MockRestServiceServerResetTestExecutionListener@3b235623, org.springframework.boot.test.autoconfigure.web.servlet.MockMvcPrintOnlyOnFailureTestExecutionListener@3ddc5a75, org.springframework.boot.test.autoconfigure.web.servlet.WebDriverTestExecutionListener@3b2114ce, org.springframework.boot.test.autoconfigure.webservices.client.MockWebServiceServerTestExecutionListener@6bab8290, org.springframework.boot.test.mock.mockito.ResetMocksTestExecutionListener@4a985388]
+Neither @ContextConfiguration nor @ContextHierarchy found for test class [com.liyt.sell.repository.ProductInfoRepositoryTest], using SpringBootContextLoader
+Could not detect default resource locations for test class [com.liyt.sell.repository.ProductInfoRepositoryTest]: no resource found for suffixes {-context.xml, Context.groovy}.
+Could not detect default configuration classes for test class [com.liyt.sell.repository.ProductInfoRepositoryTest]: ProductInfoRepositoryTest does not declare any static, non-private, non-final, nested classes annotated with @Configuration.
+Found @SpringBootConfiguration com.liyt.sell.SellApplication for test class com.liyt.sell.repository.ProductInfoRepositoryTest
+Loaded default TestExecutionListener class names from location [META-INF/spring.factories]: [org.springframework.boot.test.autoconfigure.restdocs.RestDocsTestExecutionListener, org.springframework.boot.test.autoconfigure.web.client.MockRestServiceServerResetTestExecutionListener, org.springframework.boot.test.autoconfigure.web.servlet.MockMvcPrintOnlyOnFailureTestExecutionListener, org.springframework.boot.test.autoconfigure.web.servlet.WebDriverTestExecutionListener, org.springframework.boot.test.autoconfigure.webservices.client.MockWebServiceServerTestExecutionListener, org.springframework.test.context.web.ServletTestExecutionListener, org.springframework.test.context.support.DirtiesContextBeforeModesTestExecutionListener, org.springframework.test.context.event.ApplicationEventsTestExecutionListener, org.springframework.test.context.support.DependencyInjectionTestExecutionListener, org.springframework.test.context.support.DirtiesContextTestExecutionListener, org.springframework.test.context.transaction.TransactionalTestExecutionListener, org.springframework.test.context.jdbc.SqlScriptsTestExecutionListener, org.springframework.test.context.event.EventPublishingTestExecutionListener, org.springframework.boot.test.mock.mockito.MockitoTestExecutionListener, org.springframework.boot.test.mock.mockito.ResetMocksTestExecutionListener]
+Using TestExecutionListeners: [org.springframework.test.context.web.ServletTestExecutionListener@702ab027, org.springframework.test.context.support.DirtiesContextBeforeModesTestExecutionListener@62d5617, org.springframework.test.context.event.ApplicationEventsTestExecutionListener@8929865, org.springframework.boot.test.mock.mockito.MockitoTestExecutionListener@489989eb, org.springframework.boot.test.autoconfigure.SpringBootDependencyInjectionTestExecutionListener@6d97a357, org.springframework.test.context.support.DirtiesContextTestExecutionListener@1e6cd1c, org.springframework.test.context.transaction.TransactionalTestExecutionListener@1dab2cf5, org.springframework.test.context.jdbc.SqlScriptsTestExecutionListener@19f9287a, org.springframework.test.context.event.EventPublishingTestExecutionListener@4924ad09, org.springframework.boot.test.autoconfigure.restdocs.RestDocsTestExecutionListener@7e9d171c, org.springframework.boot.test.autoconfigure.web.client.MockRestServiceServerResetTestExecutionListener@3a1540be, org.springframework.boot.test.autoconfigure.web.servlet.MockMvcPrintOnlyOnFailureTestExecutionListener@6aff157e, org.springframework.boot.test.autoconfigure.web.servlet.WebDriverTestExecutionListener@65fa1cd, org.springframework.boot.test.autoconfigure.webservices.client.MockWebServiceServerTestExecutionListener@106c73ed, org.springframework.boot.test.mock.mockito.ResetMocksTestExecutionListener@6cd1ee]
+SQL Error: 1048, SQLState: 23000
+HHH000010: On release of batch it still contained JDBC statements
+Neither @ContextConfiguration nor @ContextHierarchy found for test class [com.liyt.sell.repository.SellerInfoRepositoryTest], using SpringBootContextLoader
+Could not detect default resource locations for test class [com.liyt.sell.repository.SellerInfoRepositoryTest]: no resource found for suffixes {-context.xml, Context.groovy}.
+Could not detect default configuration classes for test class [com.liyt.sell.repository.SellerInfoRepositoryTest]: SellerInfoRepositoryTest does not declare any static, non-private, non-final, nested classes annotated with @Configuration.
+Found @SpringBootConfiguration com.liyt.sell.SellApplication for test class com.liyt.sell.repository.SellerInfoRepositoryTest
+Loaded default TestExecutionListener class names from location [META-INF/spring.factories]: [org.springframework.boot.test.autoconfigure.restdocs.RestDocsTestExecutionListener, org.springframework.boot.test.autoconfigure.web.client.MockRestServiceServerResetTestExecutionListener, org.springframework.boot.test.autoconfigure.web.servlet.MockMvcPrintOnlyOnFailureTestExecutionListener, org.springframework.boot.test.autoconfigure.web.servlet.WebDriverTestExecutionListener, org.springframework.boot.test.autoconfigure.webservices.client.MockWebServiceServerTestExecutionListener, org.springframework.test.context.web.ServletTestExecutionListener, org.springframework.test.context.support.DirtiesContextBeforeModesTestExecutionListener, org.springframework.test.context.event.ApplicationEventsTestExecutionListener, org.springframework.test.context.support.DependencyInjectionTestExecutionListener, org.springframework.test.context.support.DirtiesContextTestExecutionListener, org.springframework.test.context.transaction.TransactionalTestExecutionListener, org.springframework.test.context.jdbc.SqlScriptsTestExecutionListener, org.springframework.test.context.event.EventPublishingTestExecutionListener, org.springframework.boot.test.mock.mockito.MockitoTestExecutionListener, org.springframework.boot.test.mock.mockito.ResetMocksTestExecutionListener]
+Using TestExecutionListeners: [org.springframework.test.context.web.ServletTestExecutionListener@74fda9ed, org.springframework.test.context.support.DirtiesContextBeforeModesTestExecutionListener@2a9fd482, org.springframework.test.context.event.ApplicationEventsTestExecutionListener@7ca2319f, org.springframework.boot.test.mock.mockito.MockitoTestExecutionListener@653a5a, org.springframework.boot.test.autoconfigure.SpringBootDependencyInjectionTestExecutionListener@19ce597a, org.springframework.test.context.support.DirtiesContextTestExecutionListener@4d21b505, org.springframework.test.context.transaction.TransactionalTestExecutionListener@20e25bf7, org.springframework.test.context.jdbc.SqlScriptsTestExecutionListener@9fc125b, org.springframework.test.context.event.EventPublishingTestExecutionListener@62129f97, org.springframework.boot.test.autoconfigure.restdocs.RestDocsTestExecutionListener@22db974d, org.springframework.boot.test.autoconfigure.web.client.MockRestServiceServerResetTestExecutionListener@10545d02, org.springframework.boot.test.autoconfigure.web.servlet.MockMvcPrintOnlyOnFailureTestExecutionListener@79d3fb99, org.springframework.boot.test.autoconfigure.web.servlet.WebDriverTestExecutionListener@f4b2d13, org.springframework.boot.test.autoconfigure.webservices.client.MockWebServiceServerTestExecutionListener@7154a248, org.springframework.boot.test.mock.mockito.ResetMocksTestExecutionListener@435a4d2d]
+Neither @ContextConfiguration nor @ContextHierarchy found for test class [com.liyt.sell.repository.ShopInfoRepositoryTest], using SpringBootContextLoader
+Could not detect default resource locations for test class [com.liyt.sell.repository.ShopInfoRepositoryTest]: no resource found for suffixes {-context.xml, Context.groovy}.
+Could not detect default configuration classes for test class [com.liyt.sell.repository.ShopInfoRepositoryTest]: ShopInfoRepositoryTest does not declare any static, non-private, non-final, nested classes annotated with @Configuration.
+Found @SpringBootConfiguration com.liyt.sell.SellApplication for test class com.liyt.sell.repository.ShopInfoRepositoryTest
+Loaded default TestExecutionListener class names from location [META-INF/spring.factories]: [org.springframework.boot.test.autoconfigure.restdocs.RestDocsTestExecutionListener, org.springframework.boot.test.autoconfigure.web.client.MockRestServiceServerResetTestExecutionListener, org.springframework.boot.test.autoconfigure.web.servlet.MockMvcPrintOnlyOnFailureTestExecutionListener, org.springframework.boot.test.autoconfigure.web.servlet.WebDriverTestExecutionListener, org.springframework.boot.test.autoconfigure.webservices.client.MockWebServiceServerTestExecutionListener, org.springframework.test.context.web.ServletTestExecutionListener, org.springframework.test.context.support.DirtiesContextBeforeModesTestExecutionListener, org.springframework.test.context.event.ApplicationEventsTestExecutionListener, org.springframework.test.context.support.DependencyInjectionTestExecutionListener, org.springframework.test.context.support.DirtiesContextTestExecutionListener, org.springframework.test.context.transaction.TransactionalTestExecutionListener, org.springframework.test.context.jdbc.SqlScriptsTestExecutionListener, org.springframework.test.context.event.EventPublishingTestExecutionListener, org.springframework.boot.test.mock.mockito.MockitoTestExecutionListener, org.springframework.boot.test.mock.mockito.ResetMocksTestExecutionListener]
+Using TestExecutionListeners: [org.springframework.test.context.web.ServletTestExecutionListener@59b43e35, org.springframework.test.context.support.DirtiesContextBeforeModesTestExecutionListener@66297b63, org.springframework.test.context.event.ApplicationEventsTestExecutionListener@1d7f2719, org.springframework.boot.test.mock.mockito.MockitoTestExecutionListener@685e5967, org.springframework.boot.test.autoconfigure.SpringBootDependencyInjectionTestExecutionListener@106387cf, org.springframework.test.context.support.DirtiesContextTestExecutionListener@3d3c14c3, org.springframework.test.context.transaction.TransactionalTestExecutionListener@599fab92, org.springframework.test.context.jdbc.SqlScriptsTestExecutionListener@439054a7, org.springframework.test.context.event.EventPublishingTestExecutionListener@4fc1eee5, org.springframework.boot.test.autoconfigure.restdocs.RestDocsTestExecutionListener@120661d2, org.springframework.boot.test.autoconfigure.web.client.MockRestServiceServerResetTestExecutionListener@36618b3b, org.springframework.boot.test.autoconfigure.web.servlet.MockMvcPrintOnlyOnFailureTestExecutionListener@7715d43c, org.springframework.boot.test.autoconfigure.web.servlet.WebDriverTestExecutionListener@3763aafd, org.springframework.boot.test.autoconfigure.webservices.client.MockWebServiceServerTestExecutionListener@16ca4532, org.springframework.boot.test.mock.mockito.ResetMocksTestExecutionListener@2cc82c83]
+Neither @ContextConfiguration nor @ContextHierarchy found for test class [com.liyt.sell.SellApplicationTests], using SpringBootContextLoader
+Could not detect default resource locations for test class [com.liyt.sell.SellApplicationTests]: no resource found for suffixes {-context.xml, Context.groovy}.
+Could not detect default configuration classes for test class [com.liyt.sell.SellApplicationTests]: SellApplicationTests does not declare any static, non-private, non-final, nested classes annotated with @Configuration.
+Found @SpringBootConfiguration com.liyt.sell.SellApplication for test class com.liyt.sell.SellApplicationTests
+Loaded default TestExecutionListener class names from location [META-INF/spring.factories]: [org.springframework.boot.test.autoconfigure.restdocs.RestDocsTestExecutionListener, org.springframework.boot.test.autoconfigure.web.client.MockRestServiceServerResetTestExecutionListener, org.springframework.boot.test.autoconfigure.web.servlet.MockMvcPrintOnlyOnFailureTestExecutionListener, org.springframework.boot.test.autoconfigure.web.servlet.WebDriverTestExecutionListener, org.springframework.boot.test.autoconfigure.webservices.client.MockWebServiceServerTestExecutionListener, org.springframework.test.context.web.ServletTestExecutionListener, org.springframework.test.context.support.DirtiesContextBeforeModesTestExecutionListener, org.springframework.test.context.event.ApplicationEventsTestExecutionListener, org.springframework.test.context.support.DependencyInjectionTestExecutionListener, org.springframework.test.context.support.DirtiesContextTestExecutionListener, org.springframework.test.context.transaction.TransactionalTestExecutionListener, org.springframework.test.context.jdbc.SqlScriptsTestExecutionListener, org.springframework.test.context.event.EventPublishingTestExecutionListener, org.springframework.boot.test.mock.mockito.MockitoTestExecutionListener, org.springframework.boot.test.mock.mockito.ResetMocksTestExecutionListener]
+Using TestExecutionListeners: [org.springframework.test.context.web.ServletTestExecutionListener@5bdef8ee, org.springframework.test.context.support.DirtiesContextBeforeModesTestExecutionListener@345d4ecb, org.springframework.test.context.event.ApplicationEventsTestExecutionListener@66e44f9f, org.springframework.boot.test.mock.mockito.MockitoTestExecutionListener@79f82fc4, org.springframework.boot.test.autoconfigure.SpringBootDependencyInjectionTestExecutionListener@554db19d, org.springframework.test.context.support.DirtiesContextTestExecutionListener@bb896e9, org.springframework.test.context.transaction.TransactionalTestExecutionListener@4fe4b8b6, org.springframework.test.context.jdbc.SqlScriptsTestExecutionListener@77da2881, org.springframework.test.context.event.EventPublishingTestExecutionListener@4fa3bebe, org.springframework.boot.test.autoconfigure.restdocs.RestDocsTestExecutionListener@63767d, org.springframework.boot.test.autoconfigure.web.client.MockRestServiceServerResetTestExecutionListener@6aa85fcf, org.springframework.boot.test.autoconfigure.web.servlet.MockMvcPrintOnlyOnFailureTestExecutionListener@4c90fc3b, org.springframework.boot.test.autoconfigure.web.servlet.WebDriverTestExecutionListener@1e14ed59, org.springframework.boot.test.autoconfigure.webservices.client.MockWebServiceServerTestExecutionListener@5dfb078, org.springframework.boot.test.mock.mockito.ResetMocksTestExecutionListener@2d21d12b]
+Neither @ContextConfiguration nor @ContextHierarchy found for test class [com.liyt.sell.service.impl.BuyerServiceImplTest], using SpringBootContextLoader
+Could not detect default resource locations for test class [com.liyt.sell.service.impl.BuyerServiceImplTest]: no resource found for suffixes {-context.xml, Context.groovy}.
+Could not detect default configuration classes for test class [com.liyt.sell.service.impl.BuyerServiceImplTest]: BuyerServiceImplTest does not declare any static, non-private, non-final, nested classes annotated with @Configuration.
+Found @SpringBootConfiguration com.liyt.sell.SellApplication for test class com.liyt.sell.service.impl.BuyerServiceImplTest
+Loaded default TestExecutionListener class names from location [META-INF/spring.factories]: [org.springframework.boot.test.autoconfigure.restdocs.RestDocsTestExecutionListener, org.springframework.boot.test.autoconfigure.web.client.MockRestServiceServerResetTestExecutionListener, org.springframework.boot.test.autoconfigure.web.servlet.MockMvcPrintOnlyOnFailureTestExecutionListener, org.springframework.boot.test.autoconfigure.web.servlet.WebDriverTestExecutionListener, org.springframework.boot.test.autoconfigure.webservices.client.MockWebServiceServerTestExecutionListener, org.springframework.test.context.web.ServletTestExecutionListener, org.springframework.test.context.support.DirtiesContextBeforeModesTestExecutionListener, org.springframework.test.context.event.ApplicationEventsTestExecutionListener, org.springframework.test.context.support.DependencyInjectionTestExecutionListener, org.springframework.test.context.support.DirtiesContextTestExecutionListener, org.springframework.test.context.transaction.TransactionalTestExecutionListener, org.springframework.test.context.jdbc.SqlScriptsTestExecutionListener, org.springframework.test.context.event.EventPublishingTestExecutionListener, org.springframework.boot.test.mock.mockito.MockitoTestExecutionListener, org.springframework.boot.test.mock.mockito.ResetMocksTestExecutionListener]
+Using TestExecutionListeners: [org.springframework.test.context.web.ServletTestExecutionListener@27f8f1cc, org.springframework.test.context.support.DirtiesContextBeforeModesTestExecutionListener@473c491, org.springframework.test.context.event.ApplicationEventsTestExecutionListener@3ede428e, org.springframework.boot.test.mock.mockito.MockitoTestExecutionListener@70a8654, org.springframework.boot.test.autoconfigure.SpringBootDependencyInjectionTestExecutionListener@671c71e8, org.springframework.test.context.support.DirtiesContextTestExecutionListener@7d5176d6, org.springframework.test.context.transaction.TransactionalTestExecutionListener@31d791c0, org.springframework.test.context.jdbc.SqlScriptsTestExecutionListener@623c9988, org.springframework.test.context.event.EventPublishingTestExecutionListener@66ab3716, org.springframework.boot.test.autoconfigure.restdocs.RestDocsTestExecutionListener@103a1ad3, org.springframework.boot.test.autoconfigure.web.client.MockRestServiceServerResetTestExecutionListener@1d6ed085, org.springframework.boot.test.autoconfigure.web.servlet.MockMvcPrintOnlyOnFailureTestExecutionListener@1b18fa79, org.springframework.boot.test.autoconfigure.web.servlet.WebDriverTestExecutionListener@24347d8b, org.springframework.boot.test.autoconfigure.webservices.client.MockWebServiceServerTestExecutionListener@6418075c, org.springframework.boot.test.mock.mockito.ResetMocksTestExecutionListener@f9919a2]
+Neither @ContextConfiguration nor @ContextHierarchy found for test class [com.liyt.sell.service.impl.CategoryServiceImplTest], using SpringBootContextLoader
+Could not detect default resource locations for test class [com.liyt.sell.service.impl.CategoryServiceImplTest]: no resource found for suffixes {-context.xml, Context.groovy}.
+Could not detect default configuration classes for test class [com.liyt.sell.service.impl.CategoryServiceImplTest]: CategoryServiceImplTest does not declare any static, non-private, non-final, nested classes annotated with @Configuration.
+Found @SpringBootConfiguration com.liyt.sell.SellApplication for test class com.liyt.sell.service.impl.CategoryServiceImplTest
+Loaded default TestExecutionListener class names from location [META-INF/spring.factories]: [org.springframework.boot.test.autoconfigure.restdocs.RestDocsTestExecutionListener, org.springframework.boot.test.autoconfigure.web.client.MockRestServiceServerResetTestExecutionListener, org.springframework.boot.test.autoconfigure.web.servlet.MockMvcPrintOnlyOnFailureTestExecutionListener, org.springframework.boot.test.autoconfigure.web.servlet.WebDriverTestExecutionListener, org.springframework.boot.test.autoconfigure.webservices.client.MockWebServiceServerTestExecutionListener, org.springframework.test.context.web.ServletTestExecutionListener, org.springframework.test.context.support.DirtiesContextBeforeModesTestExecutionListener, org.springframework.test.context.event.ApplicationEventsTestExecutionListener, org.springframework.test.context.support.DependencyInjectionTestExecutionListener, org.springframework.test.context.support.DirtiesContextTestExecutionListener, org.springframework.test.context.transaction.TransactionalTestExecutionListener, org.springframework.test.context.jdbc.SqlScriptsTestExecutionListener, org.springframework.test.context.event.EventPublishingTestExecutionListener, org.springframework.boot.test.mock.mockito.MockitoTestExecutionListener, org.springframework.boot.test.mock.mockito.ResetMocksTestExecutionListener]
+Using TestExecutionListeners: [org.springframework.test.context.web.ServletTestExecutionListener@7dd92a36, org.springframework.test.context.support.DirtiesContextBeforeModesTestExecutionListener@531ed68e, org.springframework.test.context.event.ApplicationEventsTestExecutionListener@551976c2, org.springframework.boot.test.mock.mockito.MockitoTestExecutionListener@6bbd4048, org.springframework.boot.test.autoconfigure.SpringBootDependencyInjectionTestExecutionListener@5f815f93, org.springframework.test.context.support.DirtiesContextTestExecutionListener@7a8e484b, org.springframework.test.context.transaction.TransactionalTestExecutionListener@643f8ebe, org.springframework.test.context.jdbc.SqlScriptsTestExecutionListener@65013d71, org.springframework.test.context.event.EventPublishingTestExecutionListener@30a99b85, org.springframework.boot.test.autoconfigure.restdocs.RestDocsTestExecutionListener@386d41cb, org.springframework.boot.test.autoconfigure.web.client.MockRestServiceServerResetTestExecutionListener@20bf7206, org.springframework.boot.test.autoconfigure.web.servlet.MockMvcPrintOnlyOnFailureTestExecutionListener@4cb939d5, org.springframework.boot.test.autoconfigure.web.servlet.WebDriverTestExecutionListener@30b0f674, org.springframework.boot.test.autoconfigure.webservices.client.MockWebServiceServerTestExecutionListener@62818ab0, org.springframework.boot.test.mock.mockito.ResetMocksTestExecutionListener@39f5eba4]
+SQL Error: 1048, SQLState: 23000
+Neither @ContextConfiguration nor @ContextHierarchy found for test class [com.liyt.sell.service.impl.OrderServiceImplTest], using SpringBootContextLoader
+Could not detect default resource locations for test class [com.liyt.sell.service.impl.OrderServiceImplTest]: no resource found for suffixes {-context.xml, Context.groovy}.
+Could not detect default configuration classes for test class [com.liyt.sell.service.impl.OrderServiceImplTest]: OrderServiceImplTest does not declare any static, non-private, non-final, nested classes annotated with @Configuration.
+Found @SpringBootConfiguration com.liyt.sell.SellApplication for test class com.liyt.sell.service.impl.OrderServiceImplTest
+Loaded default TestExecutionListener class names from location [META-INF/spring.factories]: [org.springframework.boot.test.autoconfigure.restdocs.RestDocsTestExecutionListener, org.springframework.boot.test.autoconfigure.web.client.MockRestServiceServerResetTestExecutionListener, org.springframework.boot.test.autoconfigure.web.servlet.MockMvcPrintOnlyOnFailureTestExecutionListener, org.springframework.boot.test.autoconfigure.web.servlet.WebDriverTestExecutionListener, org.springframework.boot.test.autoconfigure.webservices.client.MockWebServiceServerTestExecutionListener, org.springframework.test.context.web.ServletTestExecutionListener, org.springframework.test.context.support.DirtiesContextBeforeModesTestExecutionListener, org.springframework.test.context.event.ApplicationEventsTestExecutionListener, org.springframework.test.context.support.DependencyInjectionTestExecutionListener, org.springframework.test.context.support.DirtiesContextTestExecutionListener, org.springframework.test.context.transaction.TransactionalTestExecutionListener, org.springframework.test.context.jdbc.SqlScriptsTestExecutionListener, org.springframework.test.context.event.EventPublishingTestExecutionListener, org.springframework.boot.test.mock.mockito.MockitoTestExecutionListener, org.springframework.boot.test.mock.mockito.ResetMocksTestExecutionListener]
+Using TestExecutionListeners: [org.springframework.test.context.web.ServletTestExecutionListener@2f59cb6f, org.springframework.test.context.support.DirtiesContextBeforeModesTestExecutionListener@60cbba57, org.springframework.test.context.event.ApplicationEventsTestExecutionListener@614d01b, org.springframework.boot.test.mock.mockito.MockitoTestExecutionListener@3be2ef56, org.springframework.boot.test.autoconfigure.SpringBootDependencyInjectionTestExecutionListener@5a8149f6, org.springframework.test.context.support.DirtiesContextTestExecutionListener@672549f3, org.springframework.test.context.transaction.TransactionalTestExecutionListener@4791d904, org.springframework.test.context.jdbc.SqlScriptsTestExecutionListener@6ba516ff, org.springframework.test.context.event.EventPublishingTestExecutionListener@3bbb3c84, org.springframework.boot.test.autoconfigure.restdocs.RestDocsTestExecutionListener@769c80d1, org.springframework.boot.test.autoconfigure.web.client.MockRestServiceServerResetTestExecutionListener@3f0c2eff, org.springframework.boot.test.autoconfigure.web.servlet.MockMvcPrintOnlyOnFailureTestExecutionListener@7cddc50f, org.springframework.boot.test.autoconfigure.web.servlet.WebDriverTestExecutionListener@1e60890c, org.springframework.boot.test.autoconfigure.webservices.client.MockWebServiceServerTestExecutionListener@c680819, org.springframework.boot.test.mock.mockito.ResetMocksTestExecutionListener@52cda4bd]
+¡¾´´½¨¶©µ¥¡¿ result=OrderDTO(orderId=1656480871004589209, buyerName=Ð¡Ä½, buyerPhone=18650092133, buyerAddress=»ð±ÒÍø»ð±ÒÍø, buyerOpenid=ew3euwhd7sjw9diwkq, orderAmount=null, orderStatus=null, payStatus=null, shopId=null, createTime=null, updateTime=null, orderDetailList=[OrderDetail(detailId=1656480871043395363, orderId=1656480871004589209, productId=1234568, productName=Ã¢¹û±ù, productPrice=20.00, productQuantity=2, productIcon=https://gimg2.baidu.com/image_search/src=http%3A%2F%2Fp1.meituan.net%2Fdeal%2F0e7c714de742e1b70273f1820ee2202874190.jpg&refer=http%3A%2F%2Fp1.meituan.net&app=2002&size=f9999,10000&q=a80&n=0&g=0n&fmt=jpeg?sec=1646814595&t=fbfa49e860b1ef492e91185a7fe91c9d), OrderDetail(detailId=1656480871113731752, orderId=1656480871004589209, productId=123457, productName=Æ¤Æ¤Ïº, productPrice=3.20, productQuantity=4, productIcon=https://gimg2.baidu.com/image_search/src=http%3A%2F%2Fbkimg.cdn.bcebos.com%2Fpic%2F1c950a7b02087bf40ad1fe009c98402c11dfa8ec618c&refer=http%3A%2F%2Fbkimg.cdn.bcebos.com&app=2002&size=f9999,10000&q=a80&n=0&g=0n&fmt=jpeg?sec=1646814464&t=446aa397e91b3cb8a540ca04476e00a0)])
+¡¾²éÑ¯µ¥¸ö¶©µ¥¡¿result=OrderDTO(orderId=1643274589837111258, buyerName=ÀîÑåÍ¢, buyerPhone=17650022293, buyerAddress=Óä¾°Íå, buyerOpenid=110115, orderAmount=26.40, orderStatus=1, payStatus=0, shopId=1, createTime=2022-01-27 04:31:33.0, updateTime=2022-06-29 05:15:49.0, orderDetailList=[OrderDetail(detailId=1643274589902540166, orderId=1643274589837111258, productId=1234568, productName=Ã¢¹û±ù, productPrice=20.00, productQuantity=1, productIcon=https://gimg2.baidu.com/image_search/src=http%3A%2F%2Fp1.meituan.net%2Fdeal%2F0e7c714de742e1b70273f1820ee2202874190.jpg&refer=http%3A%2F%2Fp1.meituan.net&app=2002&size=f9999,10000&q=a80&n=0&g=0n&fmt=jpeg?sec=1646814595&t=fbfa49e860b1ef492e91185a7fe91c9d), OrderDetail(detailId=1643274589928188046, orderId=1643274589837111258, productId=123457, productName=Æ¤Æ¤Ïº, productPrice=3.20, productQuantity=2, productIcon=https://gimg2.baidu.com/image_search/src=http%3A%2F%2Fbkimg.cdn.bcebos.com%2Fpic%2F1c950a7b02087bf40ad1fe009c98402c11dfa8ec618c&refer=http%3A%2F%2Fbkimg.cdn.bcebos.com&app=2002&size=f9999,10000&q=a80&n=0&g=0n&fmt=jpeg?sec=1646814464&t=446aa397e91b3cb8a540ca04476e00a0)])
+Neither @ContextConfiguration nor @ContextHierarchy found for test class [com.liyt.sell.service.impl.ProductServiceImplTest], using SpringBootContextLoader
+Could not detect default resource locations for test class [com.liyt.sell.service.impl.ProductServiceImplTest]: no resource found for suffixes {-context.xml, Context.groovy}.
+Could not detect default configuration classes for test class [com.liyt.sell.service.impl.ProductServiceImplTest]: ProductServiceImplTest does not declare any static, non-private, non-final, nested classes annotated with @Configuration.
+Found @SpringBootConfiguration com.liyt.sell.SellApplication for test class com.liyt.sell.service.impl.ProductServiceImplTest
+Loaded default TestExecutionListener class names from location [META-INF/spring.factories]: [org.springframework.boot.test.autoconfigure.restdocs.RestDocsTestExecutionListener, org.springframework.boot.test.autoconfigure.web.client.MockRestServiceServerResetTestExecutionListener, org.springframework.boot.test.autoconfigure.web.servlet.MockMvcPrintOnlyOnFailureTestExecutionListener, org.springframework.boot.test.autoconfigure.web.servlet.WebDriverTestExecutionListener, org.springframework.boot.test.autoconfigure.webservices.client.MockWebServiceServerTestExecutionListener, org.springframework.test.context.web.ServletTestExecutionListener, org.springframework.test.context.support.DirtiesContextBeforeModesTestExecutionListener, org.springframework.test.context.event.ApplicationEventsTestExecutionListener, org.springframework.test.context.support.DependencyInjectionTestExecutionListener, org.springframework.test.context.support.DirtiesContextTestExecutionListener, org.springframework.test.context.transaction.TransactionalTestExecutionListener, org.springframework.test.context.jdbc.SqlScriptsTestExecutionListener, org.springframework.test.context.event.EventPublishingTestExecutionListener, org.springframework.boot.test.mock.mockito.MockitoTestExecutionListener, org.springframework.boot.test.mock.mockito.ResetMocksTestExecutionListener]
+Using TestExecutionListeners: [org.springframework.test.context.web.ServletTestExecutionListener@689fe2a3, org.springframework.test.context.support.DirtiesContextBeforeModesTestExecutionListener@5257123d, org.springframework.test.context.event.ApplicationEventsTestExecutionListener@261c5d1f, org.springframework.boot.test.mock.mockito.MockitoTestExecutionListener@570089c4, org.springframework.boot.test.autoconfigure.SpringBootDependencyInjectionTestExecutionListener@409df37d, org.springframework.test.context.support.DirtiesContextTestExecutionListener@2ab1c7a9, org.springframework.test.context.transaction.TransactionalTestExecutionListener@6e818345, org.springframework.test.context.jdbc.SqlScriptsTestExecutionListener@3d9c69f8, org.springframework.test.context.event.EventPublishingTestExecutionListener@1235732d, org.springframework.boot.test.autoconfigure.restdocs.RestDocsTestExecutionListener@369d624d, org.springframework.boot.test.autoconfigure.web.client.MockRestServiceServerResetTestExecutionListener@54644470, org.springframework.boot.test.autoconfigure.web.servlet.MockMvcPrintOnlyOnFailureTestExecutionListener@a6924ad, org.springframework.boot.test.autoconfigure.web.servlet.WebDriverTestExecutionListener@33fc92d6, org.springframework.boot.test.autoconfigure.webservices.client.MockWebServiceServerTestExecutionListener@6e2e11ee, org.springframework.boot.test.mock.mockito.ResetMocksTestExecutionListener@189f9f9f]
+SQL Error: 1048, SQLState: 23000
+HHH000010: On release of batch it still contained JDBC statements
+Neither @ContextConfiguration nor @ContextHierarchy found for test class [com.liyt.sell.service.impl.ShopServiceImplTest], using SpringBootContextLoader
+Could not detect default resource locations for test class [com.liyt.sell.service.impl.ShopServiceImplTest]: no resource found for suffixes {-context.xml, Context.groovy}.
+Could not detect default configuration classes for test class [com.liyt.sell.service.impl.ShopServiceImplTest]: ShopServiceImplTest does not declare any static, non-private, non-final, nested classes annotated with @Configuration.
+Found @SpringBootConfiguration com.liyt.sell.SellApplication for test class com.liyt.sell.service.impl.ShopServiceImplTest
+Loaded default TestExecutionListener class names from location [META-INF/spring.factories]: [org.springframework.boot.test.autoconfigure.restdocs.RestDocsTestExecutionListener, org.springframework.boot.test.autoconfigure.web.client.MockRestServiceServerResetTestExecutionListener, org.springframework.boot.test.autoconfigure.web.servlet.MockMvcPrintOnlyOnFailureTestExecutionListener, org.springframework.boot.test.autoconfigure.web.servlet.WebDriverTestExecutionListener, org.springframework.boot.test.autoconfigure.webservices.client.MockWebServiceServerTestExecutionListener, org.springframework.test.context.web.ServletTestExecutionListener, org.springframework.test.context.support.DirtiesContextBeforeModesTestExecutionListener, org.springframework.test.context.event.ApplicationEventsTestExecutionListener, org.springframework.test.context.support.DependencyInjectionTestExecutionListener, org.springframework.test.context.support.DirtiesContextTestExecutionListener, org.springframework.test.context.transaction.TransactionalTestExecutionListener, org.springframework.test.context.jdbc.SqlScriptsTestExecutionListener, org.springframework.test.context.event.EventPublishingTestExecutionListener, org.springframework.boot.test.mock.mockito.MockitoTestExecutionListener, org.springframework.boot.test.mock.mockito.ResetMocksTestExecutionListener]
+Using TestExecutionListeners: [org.springframework.test.context.web.ServletTestExecutionListener@2b0d6bf2, org.springframework.test.context.support.DirtiesContextBeforeModesTestExecutionListener@a15e3c1, org.springframework.test.context.event.ApplicationEventsTestExecutionListener@46c92d27, org.springframework.boot.test.mock.mockito.MockitoTestExecutionListener@2bc52b08, org.springframework.boot.test.autoconfigure.SpringBootDependencyInjectionTestExecutionListener@6b578779, org.springframework.test.context.support.DirtiesContextTestExecutionListener@4e797a39, org.springframework.test.context.transaction.TransactionalTestExecutionListener@41d6d6c4, org.springframework.test.context.jdbc.SqlScriptsTestExecutionListener@4349389d, org.springframework.test.context.event.EventPublishingTestExecutionListener@147203c2, org.springframework.boot.test.autoconfigure.restdocs.RestDocsTestExecutionListener@11df0bc7, org.springframework.boot.test.autoconfigure.web.client.MockRestServiceServerResetTestExecutionListener@66c88fce, org.springframework.boot.test.autoconfigure.web.servlet.MockMvcPrintOnlyOnFailureTestExecutionListener@6ccfce5a, org.springframework.boot.test.autoconfigure.web.servlet.WebDriverTestExecutionListener@68a7bc12, org.springframework.boot.test.autoconfigure.webservices.client.MockWebServiceServerTestExecutionListener@14f03f2, org.springframework.boot.test.mock.mockito.ResetMocksTestExecutionListener@235b4aea]
+Closing JPA EntityManagerFactory for persistence unit 'default'
+HikariPool-1 - Shutdown initiated...
+HikariPool-1 - Shutdown completed.
+Starting ProductCategoryRepositoryTest using Java 17 on DESKTOP-B6BC0A3 with PID 43856 (started by Walker in D:\Data\ICES\sell)
+No active profile set, falling back to default profiles: default
+HV000001: Hibernate Validator 6.2.0.Final
+Bootstrapping Spring Data JPA repositories in DEFAULT mode.
+Finished Spring Data repository scanning in 77 ms. Found 7 JPA repository interfaces.
+HikariPool-1 - Starting...
+HikariPool-1 - Start completed.
+HHH000204: Processing PersistenceUnitInfo [name: default]
+HHH000412: Hibernate ORM core version 5.6.4.Final
+HCANN000001: Hibernate Commons Annotations {5.1.2.Final}
+HHH000400: Using dialect: org.hibernate.dialect.MySQL8Dialect
+HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+Initialized JPA EntityManagerFactory for persistence unit 'default'
+spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+Started ProductCategoryRepositoryTest in 4.322 seconds (JVM running for 5.081)
+Began transaction (1) for test context [DefaultTestContext@723ca036 testClass = ProductCategoryRepositoryTest, testInstance = com.liyt.sell.repository.ProductCategoryRepositoryTest@24ce5d4c, testMethod = saveTest@ProductCategoryRepositoryTest, testException = [null], mergedContextConfiguration = [WebMergedContextConfiguration@25be7b63 testClass = ProductCategoryRepositoryTest, locations = '{}', classes = '{class com.liyt.sell.SellApplication}', contextInitializerClasses = '[]', activeProfiles = '{}', propertySourceLocations = '{}', propertySourceProperties = '{org.springframework.boot.test.context.SpringBootTestContextBootstrapper=true}', contextCustomizers = set[org.springframework.boot.test.autoconfigure.actuate.metrics.MetricsExportContextCustomizerFactory$DisableMetricExportContextCustomizer@6b4a4e18, org.springframework.boot.test.autoconfigure.properties.PropertyMappingContextCustomizer@0, org.springframework.boot.test.autoconfigure.web.servlet.WebDriverContextCustomizerFactory$Customizer@37918c79, org.springframework.boot.test.context.filter.ExcludeFilterContextCustomizer@29176cc1, org.springframework.boot.test.json.DuplicateJsonObjectContextCustomizerFactory$DuplicateJsonObjectContextCustomizer@147ed70f, org.springframework.boot.test.mock.mockito.MockitoContextCustomizer@0, org.springframework.boot.test.web.client.TestRestTemplateContextCustomizer@2bbf180e, org.springframework.boot.test.context.SpringBootTestArgs@1, org.springframework.boot.test.context.SpringBootTestWebEnvironment@2d127a61], resourceBasePath = 'src/main/webapp', contextLoader = 'org.springframework.boot.test.context.SpringBootContextLoader', parent = [null]], attributes = map['org.springframework.test.context.web.ServletTestExecutionListener.activateListener' -> true, 'org.springframework.test.context.web.ServletTestExecutionListener.populatedRequestContextHolder' -> true, 'org.springframework.test.context.web.ServletTestExecutionListener.resetRequestContextHolder' -> true, 'org.springframework.test.context.event.ApplicationEventsTestExecutionListener.recordApplicationEvents' -> false]]; transaction manager [org.springframework.orm.jpa.JpaTransactionManager@43dddfdd]; rollback [true]
+SQL Error: 1048, SQLState: 23000
+Rolled back transaction for test: [DefaultTestContext@723ca036 testClass = ProductCategoryRepositoryTest, testInstance = com.liyt.sell.repository.ProductCategoryRepositoryTest@24ce5d4c, testMethod = saveTest@ProductCategoryRepositoryTest, testException = org.springframework.dao.DataIntegrityViolationException: could not execute statement; SQL [n/a]; constraint [null]; nested exception is org.hibernate.exception.ConstraintViolationException: could not execute statement, mergedContextConfiguration = [WebMergedContextConfiguration@25be7b63 testClass = ProductCategoryRepositoryTest, locations = '{}', classes = '{class com.liyt.sell.SellApplication}', contextInitializerClasses = '[]', activeProfiles = '{}', propertySourceLocations = '{}', propertySourceProperties = '{org.springframework.boot.test.context.SpringBootTestContextBootstrapper=true}', contextCustomizers = set[org.springframework.boot.test.autoconfigure.actuate.metrics.MetricsExportContextCustomizerFactory$DisableMetricExportContextCustomizer@6b4a4e18, org.springframework.boot.test.autoconfigure.properties.PropertyMappingContextCustomizer@0, org.springframework.boot.test.autoconfigure.web.servlet.WebDriverContextCustomizerFactory$Customizer@37918c79, org.springframework.boot.test.context.filter.ExcludeFilterContextCustomizer@29176cc1, org.springframework.boot.test.json.DuplicateJsonObjectContextCustomizerFactory$DuplicateJsonObjectContextCustomizer@147ed70f, org.springframework.boot.test.mock.mockito.MockitoContextCustomizer@0, org.springframework.boot.test.web.client.TestRestTemplateContextCustomizer@2bbf180e, org.springframework.boot.test.context.SpringBootTestArgs@1, org.springframework.boot.test.context.SpringBootTestWebEnvironment@2d127a61], resourceBasePath = 'src/main/webapp', contextLoader = 'org.springframework.boot.test.context.SpringBootContextLoader', parent = [null]], attributes = map['org.springframework.test.context.web.ServletTestExecutionListener.activateListener' -> true, 'org.springframework.test.context.web.ServletTestExecutionListener.populatedRequestContextHolder' -> true, 'org.springframework.test.context.web.ServletTestExecutionListener.resetRequestContextHolder' -> true, 'org.springframework.test.context.event.ApplicationEventsTestExecutionListener.recordApplicationEvents' -> false]]
+Closing JPA EntityManagerFactory for persistence unit 'default'
+HikariPool-1 - Shutdown initiated...
+HikariPool-1 - Shutdown completed.
+Starting BuyerServiceImplTest using Java 17 on DESKTOP-B6BC0A3 with PID 30404 (started by Walker in D:\Data\ICES\sell)
+No active profile set, falling back to default profiles: default
+HV000001: Hibernate Validator 6.2.0.Final
+Bootstrapping Spring Data JPA repositories in DEFAULT mode.
+Finished Spring Data repository scanning in 80 ms. Found 7 JPA repository interfaces.
+HikariPool-1 - Starting...
+HikariPool-1 - Start completed.
+HHH000204: Processing PersistenceUnitInfo [name: default]
+HHH000412: Hibernate ORM core version 5.6.4.Final
+HCANN000001: Hibernate Commons Annotations {5.1.2.Final}
+HHH000400: Using dialect: org.hibernate.dialect.MySQL8Dialect
+HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+Initialized JPA EntityManagerFactory for persistence unit 'default'
+spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+Started BuyerServiceImplTest in 4.414 seconds (JVM running for 5.18)
+Closing JPA EntityManagerFactory for persistence unit 'default'
+HikariPool-1 - Shutdown initiated...
+HikariPool-1 - Shutdown completed.
+HV000001: Hibernate Validator 6.2.0.Final
+Starting SellApplication using Java 17 on DESKTOP-B6BC0A3 with PID 41596 (D:\Data\ICES\sell\target\classes started by Walker in D:\Data\ICES\sell)
+No active profile set, falling back to default profiles: default
+Bootstrapping Spring Data JPA repositories in DEFAULT mode.
+Finished Spring Data repository scanning in 59 ms. Found 7 JPA repository interfaces.
+Tomcat initialized with port(s): 8080 (http)
+Loaded Apache Tomcat Native library [1.2.31] using APR version [1.7.0].
+APR capabilities: IPv6 [true], sendfile [true], accept filters [false], random [true], UDS [true].
+APR/OpenSSL configuration: useAprConnector [false], useOpenSSL [true]
+OpenSSL successfully initialized [OpenSSL 1.1.1l  24 Aug 2021]
+Initializing ProtocolHandler ["http-nio-8080"]
+Starting service [Tomcat]
+Starting Servlet engine: [Apache Tomcat/9.0.56]
+Initializing Spring embedded WebApplicationContext
+Root WebApplicationContext: initialization completed in 979 ms
+HikariPool-1 - Starting...
+HikariPool-1 - Start completed.
+HHH000204: Processing PersistenceUnitInfo [name: default]
+HHH000412: Hibernate ORM core version 5.6.4.Final
+HCANN000001: Hibernate Commons Annotations {5.1.2.Final}
+HHH000400: Using dialect: org.hibernate.dialect.MySQL8Dialect
+HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+Initialized JPA EntityManagerFactory for persistence unit 'default'
+spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+Starting ProtocolHandler ["http-nio-8080"]
+Tomcat started on port(s): 8080 (http) with context path '/sell'
+Started SellApplication in 2.979 seconds (JVM running for 3.443)
+Initializing Spring DispatcherServlet 'dispatcherServlet'
+Initializing Servlet 'dispatcherServlet'
+Completed initialization in 1 ms
+Closing JPA EntityManagerFactory for persistence unit 'default'
+HikariPool-1 - Shutdown initiated...
+HikariPool-1 - Shutdown completed.
+HV000001: Hibernate Validator 6.2.0.Final
+Starting SellApplication v0.0.1-SNAPSHOT using Java 17.0.1 on lkz with PID 18732 (D:\mystream\qqfile\sell\target\sell-0.0.1-SNAPSHOT.jar started by 86176 in D:\mystream\qqfile\sell)
+No active profile set, falling back to default profiles: default
+Bootstrapping Spring Data JPA repositories in DEFAULT mode.
+Finished Spring Data repository scanning in 224 ms. Found 7 JPA repository interfaces.
+Tomcat initialized with port(s): 8080 (http)
+Initializing ProtocolHandler ["http-nio-8080"]
+Starting service [Tomcat]
+Starting Servlet engine: [Apache Tomcat/9.0.56]
+Initializing Spring embedded WebApplicationContext
+Root WebApplicationContext: initialization completed in 4895 ms
+HikariPool-1 - Starting...
+HikariPool-1 - Start completed.
+HHH000204: Processing PersistenceUnitInfo [name: default]
+HHH000412: Hibernate ORM core version 5.6.4.Final
+HCANN000001: Hibernate Commons Annotations {5.1.2.Final}
+HHH000400: Using dialect: org.hibernate.dialect.MySQL8Dialect
+HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+Initialized JPA EntityManagerFactory for persistence unit 'default'
+spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+Starting ProtocolHandler ["http-nio-8080"]
+Tomcat started on port(s): 8080 (http) with context path '/sell'
+Started SellApplication in 14.393 seconds (JVM running for 15.806)
+Initializing Spring DispatcherServlet 'dispatcherServlet'
+Initializing Servlet 'dispatcherServlet'
+Completed initialization in 4 ms
+Resolved [org.springframework.web.bind.MissingServletRequestParameterException: Required request parameter 'shopId' for method parameter type String is not present]
+Resolved [org.springframework.web.bind.MissingServletRequestParameterException: Required request parameter 'shopId' for method parameter type String is not present]
+Closing JPA EntityManagerFactory for persistence unit 'default'
+HikariPool-1 - Shutdown initiated...
+HikariPool-1 - Shutdown completed.
+HV000001: Hibernate Validator 6.2.0.Final
+Starting SellApplication v0.0.1-SNAPSHOT using Java 1.8.0_332 on lkz with PID 10232 (D:\mystream\qqfile\sell\target\sell-0.0.1-SNAPSHOT.jar started by 86176 in D:\mystream\qqfile\sell)
+No active profile set, falling back to default profiles: default
+Bootstrapping Spring Data JPA repositories in DEFAULT mode.
+Finished Spring Data repository scanning in 197 ms. Found 7 JPA repository interfaces.
+Tomcat initialized with port(s): 8080 (http)
+Root WebApplicationContext: initialization completed in 7266 ms
+HikariPool-1 - Starting...
+HikariPool-1 - Start completed.
+HHH000204: Processing PersistenceUnitInfo [name: default]
+HHH000412: Hibernate ORM core version 5.6.4.Final
+HCANN000001: Hibernate Commons Annotations {5.1.2.Final}
+HHH000400: Using dialect: org.hibernate.dialect.MySQL8Dialect
+HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+Initialized JPA EntityManagerFactory for persistence unit 'default'
+spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+Tomcat started on port(s): 8080 (http) with context path '/sell'
+Started SellApplication in 16.016 seconds (JVM running for 17.693)
+Closing JPA EntityManagerFactory for persistence unit 'default'
+HikariPool-1 - Shutdown initiated...
+HikariPool-1 - Shutdown completed.
+HV000001: Hibernate Validator 6.2.0.Final
+Starting SellApplication using Java 1.8.0_332 on lkz with PID 60684 (D:\mystream\qqfile\sell\target\classes started by 86176 in D:\mystream\qqfile\sell)
+No active profile set, falling back to default profiles: default
+Bootstrapping Spring Data JPA repositories in DEFAULT mode.
+Finished Spring Data repository scanning in 198 ms. Found 7 JPA repository interfaces.
+Tomcat initialized with port(s): 8080 (http)
+Initializing ProtocolHandler ["http-nio-8080"]
+Starting service [Tomcat]
+Starting Servlet engine: [Apache Tomcat/9.0.56]
+Initializing Spring embedded WebApplicationContext
+Root WebApplicationContext: initialization completed in 3268 ms
+HikariPool-1 - Starting...
+HikariPool-1 - Start completed.
+HHH000204: Processing PersistenceUnitInfo [name: default]
+HHH000412: Hibernate ORM core version 5.6.4.Final
+HCANN000001: Hibernate Commons Annotations {5.1.2.Final}
+HHH000400: Using dialect: org.hibernate.dialect.MySQL8Dialect
+HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+Initialized JPA EntityManagerFactory for persistence unit 'default'
+spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+Starting ProtocolHandler ["http-nio-8080"]
+Tomcat started on port(s): 8080 (http) with context path '/sell'
+Started SellApplication in 10.681 seconds (JVM running for 15.05)
+Initializing Spring DispatcherServlet 'dispatcherServlet'
+Initializing Servlet 'dispatcherServlet'
+Completed initialization in 3 ms
+Closing JPA EntityManagerFactory for persistence unit 'default'
+HikariPool-1 - Shutdown initiated...
+HikariPool-1 - Shutdown completed.
+HV000001: Hibernate Validator 6.2.0.Final
+Starting SellApplication using Java 1.8.0_332 on lkz with PID 49636 (D:\mystream\qqfile\sell\target\classes started by 86176 in D:\mystream\qqfile\sell)
+No active profile set, falling back to default profiles: default
+Bootstrapping Spring Data JPA repositories in DEFAULT mode.
+Finished Spring Data repository scanning in 190 ms. Found 7 JPA repository interfaces.
+Tomcat initialized with port(s): 8080 (http)
+Initializing ProtocolHandler ["http-nio-8080"]
+Starting service [Tomcat]
+Starting Servlet engine: [Apache Tomcat/9.0.56]
+Initializing Spring embedded WebApplicationContext
+Root WebApplicationContext: initialization completed in 3311 ms
+HikariPool-1 - Starting...
+HikariPool-1 - Start completed.
+HHH000204: Processing PersistenceUnitInfo [name: default]
+HHH000412: Hibernate ORM core version 5.6.4.Final
+HCANN000001: Hibernate Commons Annotations {5.1.2.Final}
+HHH000400: Using dialect: org.hibernate.dialect.MySQL8Dialect
+HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+Initialized JPA EntityManagerFactory for persistence unit 'default'
+spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+Starting ProtocolHandler ["http-nio-8080"]
+Tomcat started on port(s): 8080 (http) with context path '/sell'
+Started SellApplication in 9.935 seconds (JVM running for 15.776)
+Initializing Spring DispatcherServlet 'dispatcherServlet'
+Initializing Servlet 'dispatcherServlet'
+Completed initialization in 2 ms
+SQL Error: 1048, SQLState: 23000
+HHH000010: On release of batch it still contained JDBC statements
+Closing JPA EntityManagerFactory for persistence unit 'default'
+HikariPool-1 - Shutdown initiated...
+HikariPool-1 - Shutdown completed.
+HV000001: Hibernate Validator 6.2.0.Final
+Starting SellApplication using Java 1.8.0_332 on lkz with PID 58228 (D:\mystream\qqfile\sell\target\classes started by 86176 in D:\mystream\qqfile\sell)
+No active profile set, falling back to default profiles: default
+Bootstrapping Spring Data JPA repositories in DEFAULT mode.
+Finished Spring Data repository scanning in 194 ms. Found 7 JPA repository interfaces.
+Tomcat initialized with port(s): 8080 (http)
+Initializing ProtocolHandler ["http-nio-8080"]
+Starting service [Tomcat]
+Starting Servlet engine: [Apache Tomcat/9.0.56]
+Initializing Spring embedded WebApplicationContext
+Root WebApplicationContext: initialization completed in 3282 ms
+HikariPool-1 - Starting...
+HikariPool-1 - Start completed.
+HHH000204: Processing PersistenceUnitInfo [name: default]
+HHH000412: Hibernate ORM core version 5.6.4.Final
+HCANN000001: Hibernate Commons Annotations {5.1.2.Final}
+HHH000400: Using dialect: org.hibernate.dialect.MySQL8Dialect
+HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+Initialized JPA EntityManagerFactory for persistence unit 'default'
+spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+Starting ProtocolHandler ["http-nio-8080"]
+Tomcat started on port(s): 8080 (http) with context path '/sell'
+Started SellApplication in 10.011 seconds (JVM running for 14.819)
+Initializing Spring DispatcherServlet 'dispatcherServlet'
+Initializing Servlet 'dispatcherServlet'
+Completed initialization in 2 ms
+SQL Error: 1048, SQLState: 23000
+HHH000010: On release of batch it still contained JDBC statements
+Closing JPA EntityManagerFactory for persistence unit 'default'
+HikariPool-1 - Shutdown initiated...
+HikariPool-1 - Shutdown completed.
+Starting SellApplication using Java 1.8.0_332 on lkz with PID 43576 (D:\mystream\qqfile\sell\target\classes started by 86176 in D:\mystream\qqfile\sell)
+No active profile set, falling back to default profiles: default
+HV000001: Hibernate Validator 6.2.0.Final
+Bootstrapping Spring Data JPA repositories in DEFAULT mode.
+Finished Spring Data repository scanning in 179 ms. Found 7 JPA repository interfaces.
+Tomcat initialized with port(s): 8080 (http)
+Initializing ProtocolHandler ["http-nio-8080"]
+Starting service [Tomcat]
+Starting Servlet engine: [Apache Tomcat/9.0.56]
+Initializing Spring embedded WebApplicationContext
+Root WebApplicationContext: initialization completed in 2996 ms
+HikariPool-1 - Starting...
+HikariPool-1 - Start completed.
+HHH000204: Processing PersistenceUnitInfo [name: default]
+HHH000412: Hibernate ORM core version 5.6.4.Final
+HCANN000001: Hibernate Commons Annotations {5.1.2.Final}
+HHH000400: Using dialect: org.hibernate.dialect.MySQL8Dialect
+HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+Initialized JPA EntityManagerFactory for persistence unit 'default'
+spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+Starting ProtocolHandler ["http-nio-8080"]
+Tomcat started on port(s): 8080 (http) with context path '/sell'
+Started SellApplication in 9.364 seconds (JVM running for 15.688)
+Initializing Spring DispatcherServlet 'dispatcherServlet'
+Initializing Servlet 'dispatcherServlet'
+Completed initialization in 2 ms
+Closing JPA EntityManagerFactory for persistence unit 'default'
+HikariPool-1 - Shutdown initiated...
+HikariPool-1 - Shutdown completed.
